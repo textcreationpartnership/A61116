@@ -1,0 +1,756 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aut Deus aut nihil God or nothing, or, a logicall method comprised in twelve propositions, deducing from the actual being of what we evidently experience, the unavoidable necessity of a God, against the atheists of our age and nation / by Vincent Hattecliffe.</title>
+            <author>Hattecliffe, Vincent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 121 KB of XML-encoded text transcribed from 67 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61116</idno>
+            <idno type="STC">Wing S4956</idno>
+            <idno type="STC">ESTC R25783</idno>
+            <idno type="EEBO-CITATION">09125004</idno>
+            <idno type="OCLC">ocm 09125004</idno>
+            <idno type="VID">42481</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61116)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42481)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1295:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Aut Deus aut nihil God or nothing, or, a logicall method comprised in twelve propositions, deducing from the actual being of what we evidently experience, the unavoidable necessity of a God, against the atheists of our age and nation / by Vincent Hattecliffe.</title>
+                  <author>Hattecliffe, Vincent.</author>
+               </titleStmt>
+               <extent>[18], 103, [8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Ralph Wood for the author, and are to be sold by Nath. Brooks,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes index.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>God --  Proof, Empirical.</term>
+               <term>Christianity --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42481:1" rendition="simple:additions"/>
+            <pb facs="tcp:42481:1"/>
+            <p>
+               <hi>Aut Deus, aut nihi.</hi> God or nothing OR A Logicall Method, compriſed in twelve Propoſitions, deducing from the Actual Being of what we evidently experience, the unavoidable neceſſity of a GOD, Againſt the ATHEISTS of our Age and Nation.</p>
+            <p>
+               <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y <hi>Vincent Hatterliffe,</hi> Gent. ſometimes Stu<g ref="char:EOLhyphen"/>dent of <hi>Corpus Chriſti</hi> Colledge in <hi>Cam<g ref="char:EOLhyphen"/>bridge.</hi>
+            </p>
+            <q>
+               <p>
+                  <hi>Dixit inſipiens in corde ſuo, non eſt Deus.</hi> The fool hath ſaid in his heart; there is no God,</p>
+               <bibl>
+                  <hi>Pſal.</hi> 13. <hi>ver.</hi> 15.</bibl>
+            </q>
+            <p>
+               <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, Printed by <hi>Ralph Wood</hi> for the Author, <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> are to be ſold by <hi>Nath. Brook</hi> at <gap reason="illegible: page cropped" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:42481:2"/>
+            <pb facs="tcp:42481:2"/>
+            <head>The Preface.</head>
+            <opener>
+               <salute>Courious Reader,</salute>
+            </opener>
+            <p>VIew, and cenſure at your plea<g ref="char:EOLhyphen"/>ſure; but you will be decei<g ref="char:EOLhyphen"/>ved, if you think to feed ei<g ref="char:EOLhyphen"/>ther Eye or Fancy here: it is meat for their Maſter, <hi>the Underſtanding.</hi>
+            </p>
+            <p>If you reſpect the matter of it, it is the voice of Creatures in Grego<g ref="char:EOLhyphen"/>rian, without Quaver or Cratcher: It is Gold in wedges, the plainer the pu<g ref="char:EOLhyphen"/>rer, which flies the fair impreſſions of the Mint, leſt it ſhould be mixed: It is a Lady in her Night-clothes, without paint or patch; who is ſo rich in her own, that ſhe diſdains to uſe a borrow<g ref="char:EOLhyphen"/>ed beauty. In a word, it is a Logical Diſcourſe in Mood and Figure; cloth'd
+<pb facs="tcp:42481:3"/>according to the old faſhion; fit, but not fine.</p>
+            <p>The Peaſant perſwades himſelfe there is no other Golden Rule in A<g ref="char:EOLhyphen"/>rithmetique, then what is drawn in Golden Figures. The Pecunious Mer<g ref="char:EOLhyphen"/>chant would chuſe Geometrical In<g ref="char:EOLhyphen"/>ſtruments, not by the proportion of the Lines and Diſtances, but by the preciouſneſs of the Matter wherein they'r drawn: and were a Dairie-maid to chuſe her Manſion in Heaven, ſhe would take up her Eternity no where, but in <hi>the Milkie Way.</hi>
+            </p>
+            <p>The Muſician judges of the Ditty's goodneſs, by the fitneſs which the Words carry with his Aires and Leſ<g ref="char:EOLhyphen"/>ſons. The verbal Critique affects no Language, but what is ſtuft with Tropes and Metaphors, and blown up with Alluſions and Eruditions. The Poetique Vein taſtes no ſtile, but what by continual jumping and quavering in the Air, ſympathizes with their Fid<g ref="char:EOLhyphen"/>ling
+<pb facs="tcp:42481:3"/>Fancies. Thus our Engliſh Pa<g ref="char:EOLhyphen"/>lates are of late become French; no<g ref="char:EOLhyphen"/>thing pleaſes but what is larded: yea, and Spaniſh too; nothing can frame it ſelf to their humours, ſave mighty O<g ref="char:EOLhyphen"/>leo's, heapt up with a numerous variety of Heads and Feet, without head or foot. Thus, like <hi>Aeſops greedy one,</hi> they loſe the Subſtance for the Shadow, and will never take the pains to poſſeſs themſelves of the Oceans treaſure, un<g ref="char:EOLhyphen"/>leſs they finde it prodigiouſly floting at the top; having neither are nor breath enough to dive, like Negro's, to the bottom to fetch it up. That face is in their eyes the ſole beautiful, which is moſt bedawb'd with painting; they judge of the comelineſs of bodies by the coſtlineſs of their Clothes; and like thoſe fooliſh Birds, they ſtand picking at the empty colours of <hi>Zeuxis</hi> falſe Grapes, rather then feed on the full ſubſtance of true ones, in a <hi>Tempe</hi> or a <hi>Theſſaly.</hi> All men are drunk in
+<pb facs="tcp:42481:4"/>their conceit, who ſpeak not Phraſes and Sentences at every breath; they account whatſoever is not Bombaſt, to be Barbariſme; they think there is no Utterance, but in Eloquence; no Rea<g ref="char:EOLhyphen"/>ſon, but in Rethorique; no Force, but in Flouriſhes; no Light, but in Light<g ref="char:EOLhyphen"/>neſs. Hence they prefer an <hi>Owens</hi> Epi<g ref="char:EOLhyphen"/>grams far before an <hi>Ariſtotles</hi> Ethiques, becauſe he <hi>out-wits</hi> him; and <hi>Sidney's Arcadia</hi> before St. <hi>Auſtins Divine City,</hi> becauſe he <hi>out-words</hi> him; thus they ſupport the tottering Stories of their new Buildings with beams of <hi>Aſh,</hi> ra<g ref="char:EOLhyphen"/>ther then of <hi>Oak,</hi> becauſe it hath a ſmoother Bark; and compoſe their Walls of Chalk, rather then of Flint or Free-ſtone, becauſe it looks the whi<g ref="char:EOLhyphen"/>ter, and feels the ſofter: and whileſt they in this manner cannot diſtinguiſh betwixt <hi>Good</hi> and <hi>Fit,</hi> (whereof the Oracle of Chriſtianity, St. <hi>Auſtin,</hi> hath made a Treatiſe) they build Caſtles in the Air, which fall down as faſt as they
+<pb facs="tcp:42481:4"/>are ſet up. Who but a mad man would expect Eloquence in a Syllogiſme; or eſteem it dull and flat, becauſe it hath not the Conceit or an <hi>Epigram</hi> in place of <hi>its Concluſion</hi> in the end of it? Who but a fool, will deny a Conſequence deduced in lawful form, becauſe it is not delivered in pure <hi>Ciceronian;</hi> or hold an evident Propoſition to be falſe, becauſe it hath neither Trope nor Fi<g ref="char:EOLhyphen"/>gure; or reject a Logick Term as inept and inſignificant, becauſe it is not found in <hi>Manutius</hi> Phraſes?</p>
+            <p>Let therefore an Orator breathe Elo<g ref="char:EOLhyphen"/>quence, and a Poet Wit; it is the height of a Philoſophers excellency, <hi>to ſpeak Reaſon in proper terms,</hi> and to ſerve himſelf of Words, not to ſerve them; leſt by that means he become guilty of diſſervice to his Reader, by withdraw<g ref="char:EOLhyphen"/>ing his attention from the ſubſtance which he pretends to teach him, <hi>Rea<g ref="char:EOLhyphen"/>ſon,</hi> to the empty ſign and ſhadow of vain Oſtentation and ſplendid Igno<g ref="char:EOLhyphen"/>rance.
+<pb facs="tcp:42481:5"/>If therefore, Reader, you be one of theſe Verbals, ſhut this Book as ſoon as you have opened it; it is not (I aſſure you aforehand) for your Palate.</p>
+            <p>For if you would know the matter and form of it, It is <hi>Reaſon wrapt up in a common Syllogiſme, and God (as once he was) in Swaddling-clothes,</hi> poor, but pure, re-appearing to the eyes of Infidels; not as then in the midſt of Heatheniſme, but in the heart of Chri<g ref="char:EOLhyphen"/>ſtendome; who, as they have quite put out the Eye of Faith, ſo have they ſhut that other of Natural Reaſon ſo cloſe, that all things are too groſs and blunt to obtain entrance, ſave the moſt ſubtil Evidence of Demonſtration and Metaphyſical certainty. Hence they reject, as flat, all thoſe Arguments (ſo much celebrated, and preſſed by Anti<g ref="char:EOLhyphen"/>quity) drawn from the Exiſtency, Or<g ref="char:EOLhyphen"/>der, Beauty, Proportion, &amp;c. of this viſible World; becauſe, ſay theſe Sa<g ref="char:EOLhyphen"/>ges,
+<pb facs="tcp:42481:5"/>it is not Metaphyſically certain, that we are not deceived, in judging, that there is any real World without us, or Humane body with us; becauſe all theſe things may haply be Illuſi<g ref="char:EOLhyphen"/>ons, Fantaſies, Dreams, Fictions of the Brain, &amp;c. with ſuch monſters of men as theſe, I am to incounter in this preſent Treatiſe. Therefore to give ſcope to the Diſpute, and way to their Nicety, I abſtract from the real Ex<g ref="char:EOLhyphen"/>iſtency of all ſenſible Creatures which ſeem to be within us, or without us; let them (for the preſent) be termed Il<g ref="char:EOLhyphen"/>luſions, Dreams, Fantaſies, yet if A<g ref="char:EOLhyphen"/>theiſts onely grant me, that they either think in their hearts (with the Fool) there is no God; or doubt whether there be one or no, (which no Atheiſt can deny to be his thought) I here un<g ref="char:EOLhyphen"/>dertake, from that very thought of theirs alone, <hi>That there is no God,</hi> to prove <hi>there is one.</hi>
+            </p>
+            <p>View therefore, and cenſure at your
+<pb facs="tcp:42481:6"/>pleaſure, but not with a curſory and heedleſs Eye, as you read Pamphlets and Play books, to gain Paſtime, and loſe Time; but with an eye fixed and open: weigh each Propoſition in an equal balance, without loſing a dram of the full weight of them; and that done, if you be ſatisfied, <hi>Yield;</hi> if un<g ref="char:EOLhyphen"/>ſatisfied, <hi>Anſwer.</hi>
+            </p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:42481:6"/>
+            <head>The Contents.</head>
+            <list>
+               <item>
+                  <hi>The firſt Propoſition.</hi> IT ſeems that there is ſomething now in actual being.</item>
+               <item>
+                  <hi>The ſecond Propoſition.</hi> Something is now in Actual Being.</item>
+               <item>
+                  <hi>The third Propoſition.</hi> There hath alwayes been ſomething in Actual Being.</item>
+               <item>
+                  <hi>The fourth Propoſition.</hi> There ſhall be alwayes ſomething in Actual being.</item>
+               <pb facs="tcp:42481:7"/>
+               <item> 
+                  <hi>The fifth Propoſition.</hi> Amongſt all things which alwayes have been, are now, and ever ſhall be, there muſt be ſome (I determine not yet whe<g ref="char:EOLhyphen"/>ther One or more) which is abſolutely, and eſſentially neceſſary, and not produ<g ref="char:EOLhyphen"/>ced by and different cauſe; that is, to which it is Eſſential to be in Actual be<g ref="char:EOLhyphen"/>ing, and ſo cannot but be from all Eter<g ref="char:EOLhyphen"/>nity to all Eternity the ſame, without the leaſt change, or alteration.</item>
+               <item>
+                  <hi>The ſixth Propoſition</hi> Whatſoever is an Actual Being Eſſential<g ref="char:EOLhyphen"/>ly, muſt be of it ſelf; that is, indepen<g ref="char:EOLhyphen"/>dent of any Cauſe different from it.</item>
+               <item>
+                  <hi>The ſeventh Propoſition.</hi> No Actual Being that is ſuperfluous, de<g ref="char:EOLhyphen"/>fective, inordinate, abſurd, or difform
+<pb facs="tcp:42481:7"/>from the Rule of right Reaſon, can be Eſſentially neceſſary, or of it ſelf.</item>
+               <item>
+                  <hi>The eighth Propoſition.</hi> No Actual Being, which is abnoxious to Deordination and Abſurdities, can be Eſſentially neceſſary, or of it ſelf.</item>
+               <item>
+                  <hi>The ninth Propoſition.</hi> Nothing can be an Actual Being Eſſenti<g ref="char:EOLhyphen"/>ally, and of it ſelf, which is not indued with the light of Reaſon.</item>
+               <item>
+                  <hi>The tenth Propoſition.</hi> Onely Actual Reaſon in its full Perfection and Latitude, that is, Reaſon it ſelf, is an Actual Being Eſſentially neceſſary.</item>
+               <item>
+                  <hi>The eleventh Propoſition.</hi> Onely Actual Reaſon in its full perfection,
+<pb facs="tcp:42481:8"/>or Reaſon it ſelf, is Eſſentially an Actual Being of it ſelf.</item>
+               <item>
+                  <hi>The twelfth Propoſition.</hi> Reaſon it ſelf, being Eſſentially neceſſary, and of it ſelf, is God.
+<list>
+                     <item>
+                        <hi>The firſt Attribute.</hi> The Unity of God.</item>
+                     <item>
+                        <hi>The ſecond Attribute.</hi> Gods Indiviſibility.</item>
+                     <item>
+                        <hi>The third Attribute.</hi> The Spirituality of God.</item>
+                     <item>
+                        <hi>The fourth Attribute.</hi> The Simplicity of Gods Being.</item>
+                     <pb facs="tcp:42481:8"/>
+                     <item> 
+                        <hi>The fifth Attribute.</hi> The Ubiquity of God.</item>
+                     <item>
+                        <hi>The ſixth Attribute.</hi> The Eternity of God.</item>
+                     <item>
+                        <hi>The ſeventh Attribute.</hi> The Omniſciency of God.</item>
+                     <item>
+                        <hi>The eighth Attribute.</hi> Of Gods Omnipotency.</item>
+                     <item>
+                        <hi>The ninth Attribute.</hi> The Goodneſs of God.</item>
+                     <item>
+                        <hi>The tenth Attribute.</hi> The Purity and Sanctity of God.</item>
+                     <pb facs="tcp:42481:9"/>
+                     <item> 
+                        <hi>The eleventh Attribute.</hi> Of the infallible Veracity of God.</item>
+                     <item>
+                        <hi>The twelfth Attribute.</hi> Gods Juſtice.</item>
+                     <item>
+                        <hi>The thirteenth Attribute.</hi> Of the ever Bleſſed Trinity.</item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:42481:9"/>
+            <head>To the Right Honorable HENRY Lord Marquis of <hi>Dorche<g ref="char:EOLhyphen"/>ſter,</hi> Earle of <hi>Kingſton,</hi> Viſcount <hi>Newark,</hi> Lord <hi>Pierrepoint,</hi> &amp;c.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>SCarce had this Alien (born in a Forreign, and nouriſht in this Nation) opened an eye in ſearch of a Noble <hi>Mecaenas,</hi> to na<g ref="char:EOLhyphen"/>turalize and protect it, when
+<pb facs="tcp:42481:10"/>your Eminent VVorth and Learning attracted them wholly to your ſelf: the one aſſuring a proneneſs to ac<g ref="char:EOLhyphen"/>cept; the other, a power to ſet a true Eſtimate of this ſmall Preſent. As ſmall in<g ref="char:EOLhyphen"/>deed as <hi>Nothing,</hi> if you re<g ref="char:EOLhyphen"/>gard the minuteneſs of the Volume; and yet as great as All things, if you conſider what is exhibites, <hi>viz.</hi> GOD, the Beſt of All things, whoſe unavoidable exiſtence it firſt endeavors to deduce by Lo<g ref="char:EOLhyphen"/>gical Conſequence, from
+<pb facs="tcp:42481:10"/>what every one moſt evi<g ref="char:EOLhyphen"/>dently experiences; then to ſhadow out his Eſſence, and laſtly, to give ſome taſte of his Attributes: and this one<g ref="char:EOLhyphen"/>ly as a Foundation to a fur<g ref="char:EOLhyphen"/>ther diſcovery (in ſome en<g ref="char:EOLhyphen"/>ſuing Tracts) of his Power, Providence, Revelations, Myſteries, and Conduct of ſinful Man to eternal Hap<g ref="char:EOLhyphen"/>pineſs. May it therefore pleaſe your Honor, to de<g ref="char:EOLhyphen"/>prive your more Serious and Important Affairs of ſo ſmall a portion of time, as
+<pb facs="tcp:42481:11"/>may ſuffice to caſt an eye upon his ſmall Tract: And for the Author of it, as you Juſtly poſſeſs the Ancient Domaine of his Name and Family, ſo you would pleaſe Favourably to Patronize thoſe few diſperſed Reliques which yet remain of it; whereof I am the leaſt and loweſt.</p>
+            <closer>
+               <salute>My Lord,</salute>
+               <signed>Your Honours moſt Humble<lb/> (though unknown) Servant,<lb/> 
+                  <hi>Vincent Hattecliffe.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:42481:11"/>
+            <head>
+               <hi>Aut Deus, aut nihil.</hi> God, or nothing.</head>
+            <div n="1" type="proposition">
+               <head>
+                  <hi>The firſt Propoſition.</hi> It ſeems that there is ſomething now in actual being.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>His Propoſition is ſo evidently true, that it cannot poſſibly be de<g ref="char:EOLhyphen"/>nied, or called into queſtion, by any one who ever reflected of what paſſed by moſt manifeſt experience in his own thoughts; and ſo neither ever was, not ever can be impugned by any who are in their right wits.</p>
+            </div>
+            <div n="2" type="proposition">
+               <pb n="2" facs="tcp:42481:12" rendition="simple:additions"/>
+               <head>
+                  <hi>The ſecond Propoſition.</hi> Something is now in Actual Being.</head>
+               <head type="sub">Proof.</head>
+               <p>THis Propoſition, the firſt being ſup<g ref="char:EOLhyphen"/>poſed as a moſt clear undeniable truth, is moſt evident, for that very <hi>ſeeming</hi> to any one, that ſomething is, muſt be ſomething; for it muſt be a Re<g ref="char:EOLhyphen"/>preſentation that ſomething now is: now every Repreſentation repreſents ſome<g ref="char:EOLhyphen"/>thing either truly, or falſely; if it repre<g ref="char:EOLhyphen"/>ſent ſomething truly, then there is ſome<g ref="char:EOLhyphen"/>thing; if falſely, yet there is a falſe Re<g ref="char:EOLhyphen"/>preſentation of ſomething: now this Repreſentation repreſents; to repreſent is to do ſomething, that which does any thing, muſt be ſomething; <hi>for nothing can do nothing:</hi> therefore if there ſeem to be ſomething in Actual Being, there is ſomething in Actual Being; to wit, that very Repreſentation, or ſeeming that ſomething is.</p>
+            </div>
+            <div n="3" type="proposition">
+               <pb n="3" facs="tcp:42481:12" rendition="simple:additions"/>
+               <head>
+                  <hi>The third Propoſition.</hi> There hath alwayes been ſomething in Actual Being.</head>
+               <head type="sub">Proof.</head>
+               <p>IF ever there had been nothing at all in actual being, then there could not poſſibly be any thing now actually, which notwithſtanding is proved to be true in the former Propoſition; for that which ſhould have been after there had been nothing at all, would either have been a being eſſentially neceſſary, which is impoſſible; for ſuch a being muſt al<g ref="char:EOLhyphen"/>wayes be, and ſo there would alwayes have been ſomething: or it muſt have been a contingent being, that is, which can be <hi>at one time,</hi> and not be <hi>at another:</hi> Now every ſuch contingent thing muſt have ſome cauſe to give it its actual ex<g ref="char:EOLhyphen"/>iſtency, or being, which it hath not eſ<g ref="char:EOLhyphen"/>ſentially of it ſelf; for that which once was nothing, or had no actual being, can
+<pb n="4" facs="tcp:42481:13" rendition="simple:additions"/>never become any thing of it ſelf, or without a cauſe diſtinct from it: for all things contingent are indifferent, or in<g ref="char:EOLhyphen"/>determined of themſelves before they are, to be or not to be actually. Now it is impoſſible, that that which of it ſelf is indeterminate, or indifferent to be, or not to be actually, ſhould determine it ſelf of it ſelf to be; for then it ſhould be indeterminate, and determinate to be eſſentially, which is a plain Chymera, and contradiction. Therefore every con<g ref="char:EOLhyphen"/>tingent thing muſt be determined to be, and be put in actual being by ſome pro<g ref="char:EOLhyphen"/>ducing cauſe really diſtinct from it: now every cauſe muſt be ſuppoſed to be actu<g ref="char:EOLhyphen"/>ally, before it can be ſuppoſed to pro<g ref="char:EOLhyphen"/>duce any thing; for to produce any thing, is to do ſomething; but <hi>nothing can do nothing.</hi> If therefore the time had ever been, when there was nothing, there could never have been any thing, but <hi>de facto,</hi> there is now ſomething, as is proved: therefore there was alwayes ſomething.</p>
+               <pb n="5" facs="tcp:42481:13" rendition="simple:additions"/>
+               <p> Neither would this truth be infringed, if one ſhould deny all contingency, and put every thing to flow one after an<g ref="char:EOLhyphen"/>other, and have their beings for ſuch, or ſuch a ſpace of time by inevitable neceſ<g ref="char:EOLhyphen"/>ſity (which I will prove hereafter to be falſe;) for even this admitted for the pre<g ref="char:EOLhyphen"/>ſent, yet the production of effects by di<g ref="char:EOLhyphen"/>ſtinct cauſes remaining ſtill in force, it will remain evident by vertue of the for<g ref="char:EOLhyphen"/>mer argument, that there hath been al<g ref="char:EOLhyphen"/>wayes ſomething in actual being; for had there ever been nothing at all, there could have been no cauſe of any thing; for <hi>nothing can do nothing.</hi> Neither can any thing poſſibly begin to be for ſuch a determinate ſpace of time, through an eſſential connexion to ſuch a determinate time, as we ſhall ſee in the fifth Pro<g ref="char:EOLhyphen"/>poſition.</p>
+            </div>
+            <div n="4" type="proposition">
+               <pb n="6" facs="tcp:42481:14" rendition="simple:additions"/>
+               <head>
+                  <hi>The fourth Propoſition.</hi> There ſhall alwayes be ſomething in actuall being.</head>
+               <head type="sub">Proof.</head>
+               <p>THere is now, and ever hath been ſomething, as is proved; if there<g ref="char:EOLhyphen"/>fore it could ever happen that all things ſhould ceaſe to be; either ſomething eſ<g ref="char:EOLhyphen"/>ſentially neceſſary (if there be any ſuch being amongſt all things) muſt ceaſe to be, which is impoſſible; for if it be eſſen<g ref="char:EOLhyphen"/>tially neceſſary, it cannot but be; for every thing muſt alwayes be what it is eſſentially: or if there be nothing eſſen<g ref="char:EOLhyphen"/>tially neceſſary, all things contingent muſt ceaſe to be; but that is impoſſible: for ſeeing every contingent thing muſt have its being from ſome cauſe really diſtinct from it, ſo long as that cauſe is apt, and able to conſerve it in being; and that there is no other cauſe preſent, and en<g ref="char:EOLhyphen"/>abled to deſtroy it, it muſt remain in its
+<pb n="7" facs="tcp:42481:14" rendition="simple:additions"/>being: If therefore all things being con<g ref="char:EOLhyphen"/>tingent ceaſe to be, they muſt either loſe their beings for want of a cauſe to con<g ref="char:EOLhyphen"/>ſerve all things, or by reaſon of ſome cauſe which deſtroyes all things. Not the firſt, for nothing can ceaſe to be for want of that which is wholly impoſſi<g ref="char:EOLhyphen"/>ble, and ſo can confer nothing neither to its being, or not being. Now that it is impoſſible that any cauſe can give being to all things, is evident; for ſeeing that very cauſe is comprized within the num<g ref="char:EOLhyphen"/>ber of all things; if it give being as a di<g ref="char:EOLhyphen"/>ſtinct cauſe to all things, it muſt give be<g ref="char:EOLhyphen"/>ing to it ſelf, and ſo be diſtinct from it ſelf, and be ſuppoſed to have a being before it is; for every cauſe, as is ſaid, muſt be ſuppoſed to have an actual being, before it can be ſuppoſed to do any thing; for <hi>nothing can do nothing:</hi> and yet if it be its own cauſe primarily and abſolutely, it cannot be ſuppoſed to be before it is produced; therefore it will be either ſup<g ref="char:EOLhyphen"/>poſed to be before it is, or not to be when it is: it is therefore evident, that ſeeing
+<pb n="8" facs="tcp:42481:15" rendition="simple:additions"/>there can be no cauſe of all things, all things which are, cannot ceaſe to be, for want of a producing cauſe. Neither for the like reaſon can all things ceaſe to be, by reaſon of ſome cauſe deſtroying all things; for ſuch a cauſe is wholly impoſ<g ref="char:EOLhyphen"/>ſible: for if all things be deſtroyed, there can nothing remain in actual being; but that which deſtroyes all things, muſt be ſuppoſed to be whilſt it deſtroyes all things; for to deſtroy any thing is to do ſomething, and <hi>nothing can do nothing.</hi>
+               </p>
+               <p>If it ſhould be replied, that that which deſtroyes all other things diſtinct from it, may ceaſe to be, after it has deſtroyed all thoſe things, and ſo all things will loſe their actual beings, and there will be nothing: I anſwer, If all things, as we now ſuppoſe, be contingent, then no<g ref="char:EOLhyphen"/>thing can deſtroy all things, ſave it ſelf: for every contingent thing muſt have a cauſe, as is proved; it cannot therefore be ſuppoſed to be, unleſs the cauſe of it be alſo ſuppoſed to be actually, therefore is cannot deſtroy all things, ſave it ſelf,
+<pb n="9" facs="tcp:42481:15" rendition="simple:additions"/>and remain it ſelf in being; for then a contingent thing ſhould be without a cauſe, which is impoſſible. And the ſame argument concludes, admitting, that all things were ſucceeding one an<g ref="char:EOLhyphen"/>other by way of cauſe and effect, through inevitable neceſſity: For then every thing in actual being muſt ſuppoſe the being of its cauſe, and ſo could never deſtroy all things ſave it ſelf, becauſe it could not be, when its cauſe is deſtroy<g ref="char:EOLhyphen"/>ed. Thus the fourth Propoſition is made evident, that ſeeing there is ſome<g ref="char:EOLhyphen"/>thing now, there muſt alwayes be ſome<g ref="char:EOLhyphen"/>thing hereafter.</p>
+            </div>
+            <div n="5" type="proposition">
+               <head>
+                  <hi>The fifth Propoſition</hi> Amongst all things which alwayes have been, are now, and ever ſhall be, there muſt be ſome (I determine not yet whether one or more) which is abſolutely, and eſ<g ref="char:EOLhyphen"/>ſentially neceſſary, and not produced by any different cauſe; that is, to which it is eſ<g ref="char:EOLhyphen"/>ſential to be in actual being, and ſo cannot
+<pb n="10" facs="tcp:42481:16" rendition="simple:additions"/>but be from all eternity to all eternity; the ſame without the leaſt change or al<g ref="char:EOLhyphen"/>teration.</head>
+               <head type="sub">Proof.</head>
+               <p>IF there were no ſuch eſſential neceſſa<g ref="char:EOLhyphen"/>ry being as this, there could never either have been, be now, or ever hereaf<g ref="char:EOLhyphen"/>ter be any thing in actual being; but there alwayes hath been is now, and ever ſhall be ſomething in actual being, as is already proved. <hi>Ergo.</hi>
+               </p>
+               <p>I prove the major, or firſt Propoſition. Whatſoever is not eſſentially an actual being, cannot be of it ſelf; for were it of it ſelf, it muſt be of its own eſſence, or eſſentially; for the eſſence of a thing is nothing really, but the thing it ſelf. Seeing therefore it cannot be of it ſelf, whenſoever it is, it muſt be from ſome<g ref="char:EOLhyphen"/>thing elſe, that is, from ſome cauſe; now if that cauſe be not eſſentially of it ſelf, it requires as much another cauſe, to have an actual being, as the former re<g ref="char:EOLhyphen"/>quired it; and ſo there will be no ſettle<g ref="char:EOLhyphen"/>ment
+<pb n="11" facs="tcp:42481:16" rendition="simple:additions"/>nor firm foundation in cauſing, till one come to ſome cauſe which proceeds not from any other, but is eſſentially of it ſelf: but every thing which is unſet<g ref="char:EOLhyphen"/>tled in it ſelf, that it may have conſiſten<g ref="char:EOLhyphen"/>cy, muſt have its firmneſs and foundation from ſomething, which is in it ſelf firm and conſtant; for other wiſe it deſtroyes it ſelf, and falls to nothing: therefore ſee<g ref="char:EOLhyphen"/>ing that every cauſe which is not eſſenti<g ref="char:EOLhyphen"/>ally from it ſelf, is as unſettled, and in<g ref="char:EOLhyphen"/>firm in cauſing, as was the firſt cauſe men<g ref="char:EOLhyphen"/>tioned in this Argument; there muſt ne<g ref="char:EOLhyphen"/>ceſſarily be found ſome cauſe eſſentially from it ſelf, to give firmneſs, as a foun<g ref="char:EOLhyphen"/>dation to all the reſt: And to put a con<g ref="char:EOLhyphen"/>catenation in dependency of cauſes and effects, without ſuch a firm cauſe as this, would be as fooliſh and abſurd, as to put a wall of ſtones, one holding up an<g ref="char:EOLhyphen"/>other in the air, without any firm foun<g ref="char:EOLhyphen"/>dation, whereon ſome of them are to reſt and ſtand. Neither will the infinite pro<g ref="char:EOLhyphen"/>greſs in multiplying contingent, or cau<g ref="char:EOLhyphen"/>ſed cauſes without end, help the matter:
+<pb n="12" facs="tcp:42481:17" rendition="simple:additions"/>For as a wall compoſed of infinite ſtones, one holding up another, without a foun<g ref="char:EOLhyphen"/>dation, would be as abſurd, as if it con<g ref="char:EOLhyphen"/>ſiſted of a finite and determinate number of ſtones; ſo will it be in this infinite progreſs in cauſes, without being ſup<g ref="char:EOLhyphen"/>ported by a neceſſary exiſtent cauſe; and there will be no other difference ſave this, that the one will be onely a finite, but the other an infinite abſurdity. Nay, as the now inſtanced Wall would not be onely abſurd, but a mere Chymera, and fiction of the Brain, unleſs it were ſu<g ref="char:EOLhyphen"/>ſtained by ſome power able to ſupply the want of a foundation; for otherwiſe it would fall down as faſt as it is builded up, and never come to have any frame of a Wall in it: So the fore-mentioned contingent cauſes and effects, would not onely be inept and fooliſh, but wholly implicatory, and impoſſible: ſeeing in the former ſuppoſition there is nothing poſ<g ref="char:EOLhyphen"/>ſible, which can ſupply the abſence of that eſſential actual being, which is to give firmneſs to all contingent cauſes, as
+<pb n="13" facs="tcp:42481:17" rendition="simple:additions"/>their foundation in cauſing; and conſe<g ref="char:EOLhyphen"/>quently all things would be impoſſible, and it would imply a contradiction that any thing ſhould ever be put in actual be<g ref="char:EOLhyphen"/>ing: But that is manifeſtly falſe; for it is made evident, that ſomething is now in a<g ref="char:EOLhyphen"/>ctual being, therefore there is ſome actual being eſſentially neceſſary. Neither will it any way darken the light of this Pro<g ref="char:EOLhyphen"/>poſition, if denying all contingency, one ſhould ſay, that every thing proceeds by fatal neceſſity, and by an inevitable, and eſſential exigency one from another in their different ſucceſſive durances, for ſuch a determinate meaſure of time: (as hath been above touched, and ſhall hereafter be examined) For ſeeing even in this ſuppoſition every thing hath its neceſſity from its cauſes, and nothing from it ſelf, or of it ſelf, it will be as ridicu<g ref="char:EOLhyphen"/>lous, and implicatory a ſuppoſition, as the former ſuppoſing contingency. For <hi>Exempligratiâ,</hi> the effect <hi>A,</hi> will have no neceſſity of being now, but from the cauſe <hi>B;</hi> nor the cauſe <hi>B,</hi> but from its
+<pb n="14" facs="tcp:42481:18"/>cauſe <hi>C,</hi> and ſo each will be neceſſary de<g ref="char:EOLhyphen"/>pendently of another cauſe; therefore un<g ref="char:EOLhyphen"/>leſs there be found a cauſe independent of all others, and having a neceſſary be<g ref="char:EOLhyphen"/>ing eſſentially from it ſelf, it will be a collection of cauſes and effects, hanging one upon another, like the ſtones of a Wall in the air, without all ground or foundation; and therefore as abſurd, and implicatory as the former. Whatſo<g ref="char:EOLhyphen"/>ever Syſteme therefore be put of cauſes and effects, the truth of this fifth Pro<g ref="char:EOLhyphen"/>poſition ſtands firm, and immoveable, that amongſt all things in actual being, &amp;c. there muſt be ſomething eſſentially neceſſary.</p>
+               <p>Yet to give it more ſtrength and light, I will endeavour to prove that the Sy<g ref="char:EOLhyphen"/>ſteme of ſucceeding ſubordinate cauſes, producing one another, without any cauſe improducible, (whereupon what<g ref="char:EOLhyphen"/>ſoever cauſe that is produced, depends either mediately, or immediately) whe<g ref="char:EOLhyphen"/>ther they have a contingent onely, or a neceſſary connection with their effects,
+<pb n="15" facs="tcp:42481:18"/>to be wholly impoſſible by this Argu<g ref="char:EOLhyphen"/>ment.</p>
+               <p>If this Syſteme be ſubſiſtent and ſo<g ref="char:EOLhyphen"/>lid, then all Cauſes and Effects, that ei<g ref="char:EOLhyphen"/>ther are now, or ever have beem are, and have been produced by a Cauſe; but that is impoſſible. <hi>Ergo,</hi> the <hi>Major</hi> is evi<g ref="char:EOLhyphen"/>dent, as containing nothing but the ſup<g ref="char:EOLhyphen"/>poſed Syſteme; for whatſoever is pro<g ref="char:EOLhyphen"/>duced by a cauſe, muſt have a cauſe pro<g ref="char:EOLhyphen"/>ducing it. The <hi>Minor</hi> I prove. If it were poſſible, that all the Effects and Cauſes that are now, or ever were, could be, or have been produced by a Cauſe, then it is poſſible that they ſhold be all Cauſes, and Effects, and yet ſhould not be all Cauſes and Effects that either are now, or ever were, but that is impoſſible. <hi>Ergo,</hi> The <hi>Minor</hi> is evident <hi>exterminis.</hi> For it onely aſſerts that both parts of a Con<g ref="char:EOLhyphen"/>tradiction, all, and not all, cannot be true. The <hi>Major</hi> I prove. Whatſoever is conceived to be produced by a Cauſe, muſt be conceived to have a producing Cauſe; this is clear. But if all Effects
+<pb n="16" facs="tcp:42481:19"/>and Cauſes, that either are, or ever were, be conceived to have a producing Cauſe, they muſt be conceived to be all, and not to be all. <hi>Ergo,</hi> This <hi>Minor</hi> is evi<g ref="char:EOLhyphen"/>dent, for they muſt be conceived to be all, as is now ſuppoſed, and affirmed in the Syſteme; and yet they cannot be conceived to be all, for the cauſe which is conceived to produce all, will be ex<g ref="char:EOLhyphen"/>cluded from the number of all that are, or ever were produced by a Cauſe. The force, &amp;c. This Argument cannot poſſi<g ref="char:EOLhyphen"/>bly be avoided, otherwiſe then by an<g ref="char:EOLhyphen"/>ſwering that it proceeds upon a falſe ſup<g ref="char:EOLhyphen"/>poſition; for the number of produced Cauſes and Effects being infinite, it is al<g ref="char:EOLhyphen"/>wayes falſe, to ſay <hi>all,</hi> for ſtill there will be more, and more without end, and one can never reach to <hi>all.</hi> To this I reply, by demanding whether the Authours of this Opinion intend by this Anſwer to elude all univerſal Propoſitions <hi>de omni,</hi> concerning this number of produced Cauſes, by denying the ſuppoſition of <hi>all,</hi> by reaſon of the infinity of the num<g ref="char:EOLhyphen"/>ber,
+<pb n="17" facs="tcp:42481:19"/>if it were admitted, <hi>exempli gratia,</hi> all effects and cauſes, that either are now, or ever were, are and were, either Corporal or Spiritual; all men that either are now, or ever were, are and were <hi>animalia rationalia,</hi> all bruits <hi>irra<g ref="char:EOLhyphen"/>tionalia,</hi> &amp;c. If they intend this, they take away the chief gound of humane diſcourſe, by denying all univerſal Propoſitions, upon pretence that they proceed upon falſe ſuppoſitions, there being no ſuch thing as <hi>All,</hi> in an infi<g ref="char:EOLhyphen"/>nity of things proceeding one from an<g ref="char:EOLhyphen"/>other, in every particular <hi>ſpecies</hi> of them: ſo, <hi>omnis homo, omnis leo, omnis arbor, &amp;c.</hi> will be falſe ſuppoſitions, and conſequently cannot compoſe a true propoſition; nor will this enume<g ref="char:EOLhyphen"/>rative argument be of force: <hi>Petrus eſt animal rationale, &amp; Paulus, &amp; Johannes, et idem de ſingulis aliis, ergo, omnis homo eſt animal rationale;</hi> for it may be eluded by ſaying I deny the ſuppoſition, <hi>omnis homo,</hi> all men; becauſe all cannot be
+<pb n="18" facs="tcp:42481:20"/>ſaid in an infinite number. If this be their intention, then they are obliged to give diſparity betwixt theſe fore<g ref="char:EOLhyphen"/>named univerſal propoſtions, and that propoſition which I advanced, of all cauſes and effects produced, for this being as really and univerſally true, as the other, if the ſuppoſition <hi>of all</hi> be admitted, they muſt give a ſolid reaſon, why <hi>all</hi> cauſes may not be admitted in this, as well as <hi>all</hi> men, &amp;c. in the other. If they ſhould give this diſpari<g ref="char:EOLhyphen"/>ty, that <hi>omnis homo, all men,</hi> &amp;c. in the foreſaid propoſitions, is an abſtract from time and place, and ſo ſuppoſes not to ſignifie all men, as conſtituted in time and place, as <hi>omnes cauſa product &amp;, all produced cauſes</hi> ſignifies in my pro<g ref="char:EOLhyphen"/>poſitions; for by <hi>omnis homo eſt animal rationale,</hi> is no more ſignified, then that it is the formal intrinſecal notion, or eſ<g ref="char:EOLhyphen"/>ſence of a man, to be a reaſonable crea<g ref="char:EOLhyphen"/>ture: I anſwer, that this is not a ſuffi<g ref="char:EOLhyphen"/>cient diſparity, for <hi>omnis res eſt produci<g ref="char:EOLhyphen"/>bilis
+<pb n="19" facs="tcp:42481:20"/>ab aliquâ causâ,</hi> abſtracts as much from time and place, and (in this opi<g ref="char:EOLhyphen"/>nion which I impugne) is as much ſig<g ref="char:EOLhyphen"/>nifying the formal intrinſecal notion of every thing, as <hi>animal rationale</hi> is of <hi>homo,</hi> in as much as <hi>res in genere</hi> is conceived in order to its exiſtency, or actual being: and hence, as from the intrinſecal notion of a man, conſiſting in <hi>animal rationale,</hi> is rightly inferred this Propoſition, That all the men that ever yet were, were <hi>animalia rationalia,</hi> becauſe the ſame eſſence is common to all, and every <hi>individuum</hi> of the ſame kinde, though this ſecond Propoſition abſtract not from time: ſo from this Prepoſition, <hi>omnis res eſt producibilis ab aliquâ causâ,</hi> muſt be rightly inferred this, All things that ever were yet in actual being, were produced from ſome cauſe. Neither will it avail any thing to inſtance in the infinite ſeries of things in poſſibility to have an actual being hereafter one from another, by
+<pb n="20" facs="tcp:42481:21"/>way of cauſe and effect without end, wherein it cannot be ſaid, that all ef<g ref="char:EOLhyphen"/>fects ſhall proceed from cauſes, or all cauſes ſhall produce their effects, be<g ref="char:EOLhyphen"/>cauſe in this infinite ſeries, there is no ſuch thing <hi>as all.</hi> This, I ſay, availes nothing, for the compariſon is not rightly inſtituted betwixt all things which have been, and all things which are in poſſibility, or may be hereafter; for thoſe cauſes which have been, or which are paſt, though they be not now any thing themſelves, yet they re<g ref="char:EOLhyphen"/>main <hi>in virtute ſua,</hi> that is, mediately or immediately, in the works which they have produced, and whereof ſome now remain, by a continual deſcent of cauſation, from their efficient vertue; ſo that the preſent effect <hi>(a)</hi> exiſts by vertue of the cauſe <hi>(b),</hi> and <hi>(b)</hi> by ver<g ref="char:EOLhyphen"/>tue of <hi>(c),</hi> and <hi>(c)</hi> by vertue of <hi>(d),</hi> &amp;c. ſo that the effect <hi>(A)</hi> hath ſo neceſſary a dependence immediate, or mediate, of every precedent cauſe in this line of
+<pb n="21" facs="tcp:42481:21"/>production, that it could not now be, if any of the precedent cauſes, how diſtant ſoever from it, had not been before it; ſo that from the actual being of any effect now, the authors of this line of produced cauſes without end, muſt confeſs, that a forcible inference is drawn, of the actual praeexiſtency of all and every cauſe of the ſaid effect, either immediately or mediately, ha<g ref="char:EOLhyphen"/>ving a neceſſary dependence a well of all, as of any one of them, as being a fruit lineally deduced from them all, which cannot poſſibly be true in an in<g ref="char:EOLhyphen"/>finite ſeries of produced cauſes; be<g ref="char:EOLhyphen"/>cauſe in a number infinite, one can ne<g ref="char:EOLhyphen"/>ver ſay <hi>all,</hi> as theſe Authors affirme. but in the inſtance alledged, of Cauſes and Effects poſſible hereafter without end, and ſo infinite; thoſe which re<g ref="char:EOLhyphen"/>main, and ſhall remain without end in the ſtate of poſſibility, ſo long as they remain in that ſtate, are a pure nothing, not having any being at all, neither in
+<pb n="22" facs="tcp:42481:22"/>themſelves, nor in <hi>virtute ſua;</hi> there being nothing in actual or virtual be<g ref="char:EOLhyphen"/>ing, ſave onely cauſes able to produce them; ſo that they are meerly in <hi>poten<g ref="char:EOLhyphen"/>tia cauſae,</hi> and no more, neither recei<g ref="char:EOLhyphen"/>veth the cauſe any vertue to exiſt from the effects which it can produce; for that which is yet nothing, cannot give any thing to another thing: whence appears, that the inſtance objected is defective, there being an evident diſ<g ref="char:EOLhyphen"/>parity, betwixt the cauſes which have been produced heretofore, and the ef<g ref="char:EOLhyphen"/>fects which may be produced without end, or time hereafter; for firſt from the effects which now are exiſtent, by an aſcendent ſucceſſive line, a mediate conſequence is forcibly drawn to all the cauſes, which by connected cauſa<g ref="char:EOLhyphen"/>lities, have wrought the being of this preſent effect, which cannot be done poſſibly in an infinite line, even accord<g ref="char:EOLhyphen"/>ing to the acknowledgement of theſe Authors; but contrariwiſe the actual
+<pb n="23" facs="tcp:42481:22"/>exiſtence of this preſent cauſe, hath no dependence at all of all or any of the effects, which may ſucceſſively proceed from it; but can ſubſiſt actually by vertue of its cauſes, though it ſhould never produce any effect at all; and therefore there is no neceſſary depen<g ref="char:EOLhyphen"/>dance immediate or mediate, betwixt the cauſe and the effect, as there is be<g ref="char:EOLhyphen"/>twixt the effect and the cauſe; whence no forcible inference can be drawne, from the actuality of the cauſe, to the neceſſary ſequele of all poſſible effects; and conſequently, all the cauſes that ever have been of this effects, mediate or immediate, are demonſtrable by this preſent effect to have had an actual be<g ref="char:EOLhyphen"/>ing: but all effects which may poſſibly proceed mediately or immediately from this preſent cauſe, are not inferred from the actuality of this cauſe, ſo that <hi>all</hi> may be ſaid in the one, but not in the other; the firſt therefore is finite, but the ſecond is an infinite number.
+<pb n="24" facs="tcp:42481:23"/>If therefore the inſtance had beene rightly inſtituted, it ſhould not have been put betwixt the effects which are inpoſſibility to be hereafter, and the precedent cauſes which already have had their actuall being; but betwixt the effects which may be hereafter, <hi>per poſterius &amp; poſterius</hi> without end, and the cauſes which might have been here<g ref="char:EOLhyphen"/>tofore <hi>per prius &amp; prius</hi> without end. For both theſe are eqully infinite, inex<g ref="char:EOLhyphen"/>hauſtible, indeterminate <hi>in potentia,</hi> and ſyncategorematical; for as deſcending from this preſent effect <hi>(A,)</hi> there ſhall or may be alwayes effects one after an<g ref="char:EOLhyphen"/>other without end poſſible; ſo aſcend<g ref="char:EOLhyphen"/>ing from the ſame effect <hi>(a)</hi> there might have been cauſes one before another without end. But as the inſtance thus ſtated concludes nothing, that the pro<g ref="char:EOLhyphen"/>duced cauſes have <hi>de facto</hi> prodeeded one from another without end; ſo ſuppoſes it ſome improducible cauſe, which might endleſly have produced
+<pb n="25" facs="tcp:42481:23"/>cauſes one before another, and before all thoſe which it actually produced. Or if we turn the compariſon another way, it ſhould have been propoſed, be<g ref="char:EOLhyphen"/>twixt the cauſes which have had actual being, and the effects which ſhall have actual being, whereſoever they are in actual poſſeſſion of that being, and then the inſtance had been of force; for as beginning from the cauſe <hi>(A)</hi> which now is in actual being, to all the effects hereafter poſſible, when they are put in actual being, the number will be deter<g ref="char:EOLhyphen"/>minate, exhauſtible, and finite; ſo be<g ref="char:EOLhyphen"/>ginning from the ſame effects <hi>(A)</hi> to all the cauſes which have had actual being in their ſeveral precedences, the number will be exhauſtible, and deter<g ref="char:EOLhyphen"/>minately finite: the infinity therefore is onely conceiveable in the endleſs ſucceſſion of poſſible effects, whereof <hi>all</hi> can never be in actual poſſeſſion of their beings <hi>à parte poſt,</hi> and an infinite precedency of poſſible cauſes, whereof
+<pb n="26" facs="tcp:42481:24"/>
+                  <hi>all</hi> could never have been in actual poſſeſſion of their beings <hi>à parte ante,</hi> which in effect is nothing elſe, then to ſay, that there is ſome neceſſary impro<g ref="char:EOLhyphen"/>ducible cauſe, which could have pro<g ref="char:EOLhyphen"/>duced cauſes one in time before an<g ref="char:EOLhyphen"/>other without end, and can produce effects one in time after another with<g ref="char:EOLhyphen"/>out end; and as this improducible cauſe can produce nothing ſo late, but he can product ſomething which ſhall exiſt after it; ſo could it not produce any thing ſo ſoon, but it could have produced ſomething which might have exiſted before it. Whence followes evidently, that there muſt be alwayes a firſt and a laſt, a beginning and an end, a determinate number, and ſo a proper <hi>all,</hi> of things which either have had, or ever ſhall have had the exerciſe of their actuall being: for the effects which are actual now, are the laſt of all actual beings which ever were be<g ref="char:EOLhyphen"/>fore, and thoſe of the next enſuing mo<g ref="char:EOLhyphen"/>ment
+<pb n="27" facs="tcp:42481:24"/>ſhall be then the laſt, and ſo ſhall it be without end. Now if actual things have an end, they muſt have had a beginning; for an infinite actual time without all beginning could never have come to an end, becauſe infinity is that which is without end: ſeeing then all actual time which hath been heretofore, is come to an end in this preſent moment, which is the laſt that hath been, or is actual, it is evident, that it had a beginning. Neither will it avail to ſay, That it is onely <hi>infini<g ref="char:EOLhyphen"/>tum à parte ante,</hi> but not <hi>à parte poſt;</hi> for I anſwer, that ſuch an actual <hi>infini<g ref="char:EOLhyphen"/>tum,</hi> is a pure Chymera, that is a thing without an end which hath an end. And it will preſs as little, to inſtance in the imaginary moments of precedent time, begore any thing was produced by a cauſe, which were infinite <hi>à parte ante,</hi> and yet came to an end <hi>à parte poſt,</hi> when things were firſt cauſed: For I anſwer that thoſe moments were pure
+<pb n="28" facs="tcp:42481:25"/>nothings, and mere fictious or falſe conceipts of our underſtanding; for time is nothing but either the meaſure of mutable things, or rather the muta<g ref="char:EOLhyphen"/>bility or mutation it ſelf: (as I ſhall declare hereafter) when therefore it is ſuppoſed that no mutable thing is in actual being, it is impoſsible to con<g ref="char:EOLhyphen"/>ceive truly that there is any time; for thoſe fained moments are nothing elſe, then that improducible, and immutable cauſe, which hath power to produce ſomething actual and mutable, which ſhould have bin before all other things which he hath cauſed, as the imagina<g ref="char:EOLhyphen"/>ry moments poſsible to be hereafter, are nothing ſave the ſame cauſe, either alone or with other cauſes which can produce mutable effects after all thoſe which ſhall have been actually produ<g ref="char:EOLhyphen"/>ced; by reaſon therefore that this pow<g ref="char:EOLhyphen"/>er of the firſt cauſe is without begin<g ref="char:EOLhyphen"/>ning or ending, as being wholly im<g ref="char:EOLhyphen"/>mutable, and ſo not meaſurable by
+<pb n="29" facs="tcp:42481:25"/>time, we conceipt that time poſſible in precedency, and of futurition, is com<g ref="char:EOLhyphen"/>poſed of ſucceſſive moments.</p>
+               <p>Thus therefore having paſſed through theſe occurring difficulties, I return to my former Argument, and preſs it thus: All the effects which now are in actual being (even according to the adverſe opinion) have neceſſary dependance, mediate or immediate, of all the cauſes which have preceded them in the line of their cauſation; therefore it is a truth and a proper expreſſion to ſay, that <hi>all</hi> thoſe cauſes have concurred mediately or immediately to theſe pre<g ref="char:EOLhyphen"/>ſent effects; but it is impoſſible that all thoſe precedent cauſes ſhould be produced by a cauſe, for then they would be <hi>all,</hi> and not <hi>all,</hi> as I have al<g ref="char:EOLhyphen"/>ready proved: therefore amongſt the cauſes which in the line of cauſation have concurred immediately or medi<g ref="char:EOLhyphen"/>ately to theſe preſent effects, there muſt be at leaſt ſome one which is a produ<g ref="char:EOLhyphen"/>cing
+<pb n="30" facs="tcp:42481:26"/>onely, and not a produced cauſe, which is my fifth Propoſition.</p>
+               <p>Hitherto I have only labor'd to evince, that ſuch beings as are ſubject to con<g ref="char:EOLhyphen"/>tinual generation, and corruption, and which by a line of Succeſſion follow one another, in production and deſiti<g ref="char:EOLhyphen"/>on, muſt have had ſome improducible cauſe: ſome difficulty may yet remain in theſe greater and more ſolid parts of this Univerſe, as the Earth, Water, Air, Heaven, Sun, Moon, Stars, &amp;c. for theſe ſtill remaining (ſo far as we can judge by our experience) in that main ſubſtantial being which they ever had, may occaſion a difficulty how they came to be. Foraſmuch therefore as touches this preſent propoſtion, ei<g ref="char:EOLhyphen"/>ther it muſt be ſaid, that they are of themſelves, and never had any produ<g ref="char:EOLhyphen"/>cing cauſe, and then my preſent propo<g ref="char:EOLhyphen"/>ſition is in part afferted, that amongſt all actual beings there muſt be impro<g ref="char:EOLhyphen"/>ducible cauſes: or that they were pro<g ref="char:EOLhyphen"/>duced
+<pb n="31" facs="tcp:42481:26"/>by cauſes ſucceſſive one to an<g ref="char:EOLhyphen"/>other, and all cauſed, which I have al<g ref="char:EOLhyphen"/>ready confuted: or that they are cauſes one above another, and one producing another without end, and all actually and eternally exiſtent, which I have <hi>à fortiori,</hi> evinced to be falſe, by my for<g ref="char:EOLhyphen"/>mer Argument, againſt infinite ſucceſ<g ref="char:EOLhyphen"/>ſive cauſes; for it would be both an <hi>actu infinitum,</hi> and as hard to under<g ref="char:EOLhyphen"/>ſtand or believe, as a firſt improducible cauſe; and it would deſtroy it ſelf by being as impoſſible, as that of ſucceed<g ref="char:EOLhyphen"/>ing cauſes, &amp;c. Neither will the in<g ref="char:EOLhyphen"/>ſtance of infinite diviſible parts leſs, and leſs without end, <hi>in continuo,</hi> make a parity with <hi>infinitum actu.</hi> For firſt, that opinion is not certain: and ſe<g ref="char:EOLhyphen"/>condly, if it be true, I anſwer, that parts whilſt they are <hi>in continuo,</hi> are onely potential, and not actual parts, no nor <hi>entia actu;</hi> for nothing is an actual being but the <hi>totum</hi> it ſelf, and
+<pb n="32" facs="tcp:42481:27"/>when that is divided, of one <hi>totum</hi> or whole thing, there is made two, and if each of them be divided, they be<g ref="char:EOLhyphen"/>come two leſs <hi>totums,</hi> and ſo without end by each diviſion, a new <hi>totum</hi> will begin to be, which was onely <hi>in poten<g ref="char:EOLhyphen"/>tia</hi> before; for ſo long as they are <hi>in continuo,</hi> they are the <hi>continuum</hi> with<g ref="char:EOLhyphen"/>out any beginning, ending, term, or determination, ſave onely the terms of the whole <hi>continuum;</hi> ſo that it is im<g ref="char:EOLhyphen"/>poſſible to ſay the part <hi>(a)</hi> is of this de<g ref="char:EOLhyphen"/>terminate length, bredth, or profundi<g ref="char:EOLhyphen"/>ty, ſo long as it remains <hi>in continuo,</hi> for it hath nothing to terminate it, till it come to the utmoſt ſuperficies or point of the <hi>continuum.</hi> And ſeeing every actual being muſt be determinate, and no indeterminate thing can be <hi>ens actu,</hi> there will be nothing actual <hi>in continuo,</hi> ſave the <hi>totum</hi> it ſelf, or the <hi>continuum,</hi> becauſe that onely is <hi>ens determinatum,</hi> having its fixed and <hi>determinate</hi> limits: ſo that in every <hi>continuo,</hi> there is onely
+<pb n="33" facs="tcp:42481:27"/>one actual thing, containing <hi>in potentia,</hi> many things, which by actual diviſion may become <hi>acta</hi> leſs <hi>continuums</hi> then that is wherein they are contained; and ſo every <hi>continuum</hi> contained <hi>in potentia</hi> in a greater, will be leſs then its continent, when it becomes a <hi>conti<g ref="char:EOLhyphen"/>nuum</hi> by a new diviſion, and this with<g ref="char:EOLhyphen"/>out end; there being then no actual determination of different parts <hi>in con<g ref="char:EOLhyphen"/>tinuo,</hi> there can be no actual diſtinction of them; and if no diſtinction, no actual number; and if no actual num<g ref="char:EOLhyphen"/>ber, there can be no actual infinity, or <hi>infinitum actu.</hi>
+               </p>
+               <p>Thus I have proved my fifth Pro<g ref="char:EOLhyphen"/>poſition, and have been ſomething prolix in it, becauſe it contains the maineſt difficulty of the whole de<g ref="char:EOLhyphen"/>duction.</p>
+               <p>Againſt the three laſt precedent pro<g ref="char:EOLhyphen"/>poſitions may be objected, that there appears no contradiction, in conſtitu<g ref="char:EOLhyphen"/>ting the eſſence of ſomething not ab<g ref="char:EOLhyphen"/>ſolutely
+<pb n="34" facs="tcp:42481:28"/>and alwayes neceſſary, but yet having a neceſſary and eſſential con<g ref="char:EOLhyphen"/>nection with ſuch a determinate term of time, <hi>v. g.</hi> that it have an eſſence requiring neceſſarily to begin its actual being in the determinate inſtant <hi>(A),</hi> and to continue till the determinate in<g ref="char:EOLhyphen"/>ſtant <hi>(G),</hi> and the ſame is of ſo many determinate hours, dayes, moneths, years, &amp;c. and this without any cauſe at all, but of its particular eſſence, or of it ſelf: whence will follow, that one thing may begin to be actually in ſuch a term of time, and then ceaſe to be; and after many revolutions of time another thing may begin, and deſiſt from being, in another diſcontinued portion of time, &amp;c. So that a time may be given wherein there was no<g ref="char:EOLhyphen"/>thing at all, nor ſhall be any thing, though there be ſomething now in actual being. I anſwer, that ſuch an eſſence as this, implies a manifeſt con<g ref="char:EOLhyphen"/>tradiction, in our preſent ſuppoſi<g ref="char:EOLhyphen"/>tion,
+<pb n="35" facs="tcp:42481:28"/>
+                  <hi>of no being at all:</hi> for ſuppoſing once that there be nothing at all, it can<g ref="char:EOLhyphen"/>not be ſuppoſed, that there are any de<g ref="char:EOLhyphen"/>terminate inſtants, or parts of time, to which that being can have any neceſſa<g ref="char:EOLhyphen"/>ry and eſſential relation; for thoſe in<g ref="char:EOLhyphen"/>ſtants, or parts, muſt be ſomething; and ſo this objection ſuppoſe <hi>nothing at all to be,</hi> and yet <hi>ſomething to be,</hi> which is a clear contradiction. And hence alſo follows, that it is as clear a contradiction as the former, to affirm, that any thing eſſentially annexed to a determinate ſpace of time, ſhould be of it ſelf, <hi>ab aeterno;</hi> for that limited eter<g ref="char:EOLhyphen"/>nity muſt be preſuppoſed to be actual<g ref="char:EOLhyphen"/>ly, before you ſuppoſe that any thing can be actually and eſſentially annexed to it, ſeeing the actuality of no being can be eſſentially annexed to that <hi>which is nothing actually;</hi> for then ſomething ſhould depend of nothing: now I ſub<g ref="char:EOLhyphen"/>ſume, but it is impoſſible to conceive that pretended not beginning, or eter<g ref="char:EOLhyphen"/>nal
+<pb n="36" facs="tcp:42481:29"/>determinate time deſigned in the objections to be preſuppoſed as actu<g ref="char:EOLhyphen"/>ally exiſting, before that being com<g ref="char:EOLhyphen"/>menſured eſſentially to that forenamed ſpace of time, <hi>ergo.</hi> This <hi>Minor</hi> I prove becauſe it is wholly impoſſible to conceive any actual durance of time, whether eternal or not eternal, whether infinite of finite, before we conceive ſomething actually exiſtent, which is a ſecond ſign of <hi>poſteriority of Nature,</hi> we conceive meaſured by ſuch a determinate ſpace of time; for no part of time whatſoever, can have any other proper notion (if it be any reality diſtinct from the thing which dures) then to be an affect, and (as many think) conſequently an effect of that which dures by it; both which ſuppoſe either the thing effected to be its ſubject, or the thing effecting it to be its cauſe; and by conſequence, that thing to be in priority, and this in poſteriority of na<g ref="char:EOLhyphen"/>ture, in relation to it: whence it fol<g ref="char:EOLhyphen"/>lows,
+<pb n="37" facs="tcp:42481:29"/>according to the common ſtrain of Philoſophers, that it can have no eſſential dependence of it in its actual being; for what is ſuppoſed to be actu<g ref="char:EOLhyphen"/>ally, before the actual being of another thing, cannot eſſentially depend in its actual being upon that before which it is ſuppoſed to be actually.</p>
+               <p>Secondly, ſeeing that that which this objection pretends to be eternal, or <hi>ab aeterno,</hi> muſt have an eſſential relati<g ref="char:EOLhyphen"/>on to this or that determinate actual ſpace of time, for which alone, and for no other, it hath a neceſſary being of it ſelf, and that ended ceaſes of it ſelf to be any longer, I cannot conceive ſuch an eſſence without a manifeſt contra<g ref="char:EOLhyphen"/>diction; for it is impoſſible to conceive any thing to have an eſſential relation to be ſo ſoon, or in ſuch a priority of time that no time can be conceived to be poſſible before it, if it continue one<g ref="char:EOLhyphen"/>ly for a determinate ſpace of ſucceſſive time, and then as it exiſted (in his ſup<g ref="char:EOLhyphen"/>poſition)
+<pb n="38" facs="tcp:42481:30"/>of it ſelf <hi>ab aeterno,</hi> ſo of it ſelf it ceaſes to be in this or that deter<g ref="char:EOLhyphen"/>minate inſtant of time. For in this ſuppoſition, that determinate inſtant will terminate a time which is determi<g ref="char:EOLhyphen"/>nately finite; therefore from that in<g ref="char:EOLhyphen"/>ſtant aſcending, one may attain to the firſt inſtant of that time; and ſo that time will have a final and laſt inſtant, and conſequently be finite, and not eternal, wherein no firſt inſtant is to be found. Seeing therefore (as we ſhall ſee hereafter) ſucceſſive eternity is but a meer poſſible indetermination of one priority conceived before another, and that no indeterminate thing ſo long as it remains indeterminate, or as ſuch, can poſſibly be, or ever have been <hi>ens actu,</hi> an actual being; it is alſo impoſ<g ref="char:EOLhyphen"/>ſible to conceive ſuch an indeterminate ſucceſſive eternity, to be any actual thing in it ſelf, or any thing elſe, ſave the neceſſary and immutable power of ſome cauſe which can produce nothing
+<pb n="39" facs="tcp:42481:30"/>ſo ſoon, but it could have produced ſomething, which might have been be<g ref="char:EOLhyphen"/>fore whatſoever it hath actually pro<g ref="char:EOLhyphen"/>duced; and if it had produced any thing before that, it could yet have produced another thing which would have been, and ſo <hi>in infinitum,</hi> without all term or limit.</p>
+            </div>
+            <div n="6" type="proposition">
+               <head>
+                  <hi>The ſixth Propoſition.</hi> Whatſoever is an actual being eſſentially, muſt be of it ſelf, that is, independent of any cauſe different from it.</head>
+               <head type="sub">Proof.</head>
+               <p>THis Propoſition is already pro<g ref="char:EOLhyphen"/>ved, for the eſſence of a thing is really the thing it ſelf, as is evident; if therefore any thing exiſt actually from, or of its effence, it muſt exiſt actually from, or of it ſelf: now every thing which is eſſentially an actual being, exiſts actually of its own eſſence; there<g ref="char:EOLhyphen"/>fore
+<pb n="40" facs="tcp:42481:31"/>every thing which is eſſentially an actual being, exiſts actually of it ſelf. If it ſhould be inſtanced, that ſuppoſing an inevitable neceſſity of all things, all things would eſſentially be actual be<g ref="char:EOLhyphen"/>ings for that meaſure of time wherein they are, and yet they would not be of themſelves, but from their determinate cauſes unavoidably producing them; I anſwer, that this neceſſity (were there any ſuch) proceeds not from the eſſence of the effect, but from the determina<g ref="char:EOLhyphen"/>tion of the cauſe; for therefore onely the effect is neceſſary, becauſe the cauſe cannot but produce it: for the effect be<g ref="char:EOLhyphen"/>ing purely nothing before it is produ<g ref="char:EOLhyphen"/>ced, cannot poſſibly neceſſitate the cauſe to produce it; for to neceſſitate any thing, is to do ſome thing, but <hi>no<g ref="char:EOLhyphen"/>thing can do nothing:</hi> it is not therefore the eſſence of the effect to be actually in ſuch a ſpace of time, but rather the eſ<g ref="char:EOLhyphen"/>ſence of the cauſe to produce ſuch an effect in ſuch a time. So that even this
+<pb n="41" facs="tcp:42481:31"/>falſe ſuppoſition admitted, what ſoever is an actual being eſſentially, muſt be of it ſelf; for the ſuppoſed inevitable ne<g ref="char:EOLhyphen"/>ceſſity of all things is onely extrinſe<g ref="char:EOLhyphen"/>cal from the cauſe, and ſo not eſſential, or intrinſecal to the thing in actual be<g ref="char:EOLhyphen"/>ing: neither indeed can either the be<g ref="char:EOLhyphen"/>ginning to be, or perſeverance in being for ſuch a determinate time onely, be eſſential to any thing; for time being nothing but a meaſure of mutability, or rather mutability it ſelf, (as we ſhall ſee hereafter) whatſoever is eſſentially in or for ſuch a determinate ſpace of time, will be in time, and not in time, for that whole ſpace wherein it is ſuppoſed to be: in time, as is ſuppoſed; and yet not in time, for whatſoever it is eſſen<g ref="char:EOLhyphen"/>tially it is immutably, for nothing can change its eſſence: To ſay therefore, that any thing can be eſſentially for, or in ſuch a determinate time, is to affirm that is is mutable whilſt it is not muta<g ref="char:EOLhyphen"/>ble, and neceſſary whilſt it is not neceſ<g ref="char:EOLhyphen"/>ſary,
+<pb n="42" facs="tcp:42481:32"/>which is a plain contradiction. Nay farther, it is to affirm, that ſuch a being is <hi>tota ſimul,</hi> becauſe it cannot but be for ſuch a time, and yet not <hi>tota ſi<g ref="char:EOLhyphen"/>mul,</hi> but by ſucceeding parts, becauſe it is in time, which is another contra<g ref="char:EOLhyphen"/>diction.</p>
+            </div>
+            <div n="7" type="proposition">
+               <head>
+                  <hi>The ſeventh Propoſition.</hi> No actual being that is ſuperfluous, de<g ref="char:EOLhyphen"/>fective, inordinate, abſurd, or difform from the rule of right Reaſon, can be eſſentially neceſſary, or of it ſelf.</head>
+               <head type="sub">Proof.</head>
+               <p>FOr what neceſſity can there be of abſurdities or defects, &amp;c. ſeeing their not being is better then their be<g ref="char:EOLhyphen"/>ing, and the works of nature are better without them then with them? For if any thing abſurd and contrary to rea<g ref="char:EOLhyphen"/>ſon could be eſſentially neceſſary, and of it ſelf, and all thing muſt proceed
+<pb n="43" facs="tcp:42481:32"/>from that being which is eſſentially ne<g ref="char:EOLhyphen"/>ceſſary, and of it ſelf, as is above pro<g ref="char:EOLhyphen"/>ved, then all things which have a being muſt be abſurd and contrary to reaſon. But it is evident that all things which have a being are not abſurd and contra<g ref="char:EOLhyphen"/>ry to reaſon, <hi>ergo.</hi> The <hi>Minor</hi> is evi<g ref="char:EOLhyphen"/>dent by the Reaſonableneſs, Order, Beauty, Perfection, Connection, and Symmetry which are found in thoſe things which we experience to be. The <hi>Major</hi> I prove, for nothing can give that which it hath not it ſelf, therefore, if that which gives, that is, produces all things, be abſurd and contrary to rea<g ref="char:EOLhyphen"/>ſon, it cannot give, that is, produce any thing which is perfect and according to reaſon. For if that which is contra<g ref="char:EOLhyphen"/>ry to reaſon could work according to reaſon; (and whatſoever gives or pro<g ref="char:EOLhyphen"/>duces any thing which is according to reaſon, muſt work according to reaſon) then that which is contrary to reaſon will be according to reaſon; for what<g ref="char:EOLhyphen"/>ſoever
+<pb n="44" facs="tcp:42481:33"/>works according to reaſon, muſt participate of reaſon, and ſo be accord<g ref="char:EOLhyphen"/>ing to reaſon. Again, whatſoever is, there muſt be ſome reaſon why it is: But there can be no reaſon, why any thing which is contrary to reaſon ſhould be, <hi>ergo.</hi> The <hi>Minor</hi> is evident, for if there were reaſon for it, it could not be contrary to reaſon, unleſs you make the ſame thing to be according to reaſon and contrary to reaſon. I prove the <hi>Major,</hi> for if any thing could be without any reaſon why it is, then any one may put what he pleaſeth to be, or not to be, without any reaſon: and ſo all humane diſcourſe will be fruſtrated, which gives reaſons for what it affirms, and deduceth all things from reaſon. But of this more hereafter.</p>
+            </div>
+            <div n="8" type="proposition">
+               <pb n="45" facs="tcp:42481:33"/>
+               <head>
+                  <hi>The eighth Propoſition.</hi> No Actual Being, which is oboxious to Deordinations and Abſurdities, can be eſſentially neceſſary, or of it ſelf.</head>
+               <head type="sub">Proof.</head>
+               <p>SEeing no abſurdity can be eſſenti<g ref="char:EOLhyphen"/>ally neceſſary, as is proved, nothing which can be ſubject to any abſurdity can be eſſentially neceſſary; for what<g ref="char:EOLhyphen"/>ſoever actual being is eſſentially neceſ<g ref="char:EOLhyphen"/>ſary, muſt alwayes be neceſſary; but that which is ſubject to ſuch deviati<g ref="char:EOLhyphen"/>ons, may at ſome time not be neceſſary; for it may happen that it falls into ſome of thoſe abſurdities to which it is obnoxious, and then it becomes ab<g ref="char:EOLhyphen"/>furd and inordinate; but nothing which is abſurd can be eſſentially ne<g ref="char:EOLhyphen"/>ceſſary: ſeeing therefore every actual being eſſentially neceſſary excludes all abſurdities, nothing which can be ab<g ref="char:EOLhyphen"/>ſurd, can be an actual being eſſentially neceſſary.</p>
+            </div>
+            <div n="9" type="proposition">
+               <pb n="46" facs="tcp:42481:34"/>
+               <head>
+                  <hi>The ninth Propoſition.</hi> Nothing can be an actual being eſſentially, and of it ſelf, which is not indued with the light of Reaſon.</head>
+               <head type="sub">Proof.</head>
+               <p>WHatſoever is an actual being eſſentially, muſt eſſentially ex<g ref="char:EOLhyphen"/>clude all diſorders and abfurdities, as is proved in the two former Propoſiti<g ref="char:EOLhyphen"/>ons, but nothing ſave that which is in<g ref="char:EOLhyphen"/>dued with the light of reaſon, can eſ<g ref="char:EOLhyphen"/>ſentially exclude all diſorders and ab<g ref="char:EOLhyphen"/>ſurdities, <hi>ergo.</hi> I prove the <hi>Minor:</hi> whatſoever excludes eſſentially all diſ<g ref="char:EOLhyphen"/>orders and abſurdities, muſt have ſome<g ref="char:EOLhyphen"/>thing eſſentially repugnant to all diſ<g ref="char:EOLhyphen"/>orders and abſurdities; this is evident. But nothing is eſſentially repugnant to all diſorders and abſurdities, ſave the light of reaſon: Therefore, what ſo<g ref="char:EOLhyphen"/>ever hath not the light of reaſon ex<g ref="char:EOLhyphen"/>cludes
+<pb n="47" facs="tcp:42481:34"/>not eſſentially all diſorders and abſurdities. I prove the <hi>Minor.</hi>
+               </p>
+               <p>Therefore onely is any thing diſor<g ref="char:EOLhyphen"/>dered and abſurd, becauſe it is contrary or difform to the light of reaſon is eſſen<g ref="char:EOLhyphen"/>tially repugnant to all diſorders and abſurdities. The antecedent is evident; for why is any thing diſordered or ab<g ref="char:EOLhyphen"/>ſurd, then becauſe it is otherwiſe then reaſon dictates it ſhould be? I prove the conſequence, for if diſorder be nothing ſave a repugnancy to the light of reaſon, then nothing but the light of reaſon is eſſentially repugnant to all diſorders.</p>
+               <p>I will give force and light to this Argument, by propounding it in an<g ref="char:EOLhyphen"/>other manner, thus. Whatſoever is not capable of it ſelf, to govern and di<g ref="char:EOLhyphen"/>rect it ſelf perfectly according to the rule of reaſon, cannot of it ſelf pre<g ref="char:EOLhyphen"/>ſerve it ſelf from all inconverniences, diſorders, and abſurdities; this is evi<g ref="char:EOLhyphen"/>dent,
+<pb n="48" facs="tcp:42481:35"/>But whatſoever hath not the light of reaſon, cannot of it ſelf go<g ref="char:EOLhyphen"/>vern it ſelf perfectly according to the rule of reaſon, <hi>ergo.</hi> The <hi>Minor</hi> is clear; for who can poſſibly conceive, that that which hath no knowledge nor under<g ref="char:EOLhyphen"/>ſtanding of it ſelf, which neither knows whether it be good or bad, right or wrong, well or ill, orderly or diſ<g ref="char:EOLhyphen"/>orderly, according or contrary to rea<g ref="char:EOLhyphen"/>ſon, nay, nor whether there be any ſuch thing as reaſon or no, ſhould be capable to govern perfectly it ſelf of it ſelf, ac<g ref="char:EOLhyphen"/>cording to the rule of reaſon? Thus were the Sun conſtituted ſo far from the Earth, that it could neither heat not enlighten it; or ſo near, that it blinded all who ſaw it, and burnt up all before it; or that the Earth were removed ſo far off, or near to the Sun, that the ſame inconveniences and diſorders follow<g ref="char:EOLhyphen"/>ed; if neither any Tree ever bore fruit, not any ſenſible Creature exerciſed any faculty of his ſenſes; if all bodies were
+<pb n="49" facs="tcp:42481:35"/>weak, feeble, diſeaſed, and deformed; if all things were put out of order, place, time, number, weight, meaſure, proportion, beauty, fill'd with nothing but horrid diſorders, defects, deformi<g ref="char:EOLhyphen"/>ties, diſproportions, abſurdities, foole<g ref="char:EOLhyphen"/>ries, (which certainly, if we reſpect onely the courſe of Nature, are main tranſgreſſions againſt the rule of Rea<g ref="char:EOLhyphen"/>ſon, foul blots upon the beauty of creatures, and prodigious monſters in the progreſs of natural cauſes) yet what ſoever had not the light of rea<g ref="char:EOLhyphen"/>ſon, could neither prevent them, nor reſent them, nor redreſs them of, and by it ſelf, or by any thing included eſ<g ref="char:EOLhyphen"/>ſentially in the actuality of its being; but every thing would actually exiſt as before, if ſome external cauſe did not deſtroy them, which could not be, if they were eſſentially actual beings, as is already proved.</p>
+               <p>It will be ſaid this Argument proves too much, and ſo in effect proves juſt
+<pb n="50" facs="tcp:42481:36"/>nothing: for it concludes not onely, that actual beings devoid of the light of reaſon cannot free themſelves from all diſorders and defects, but that they can free themſelves from none at all; for if the light of reaſon be onely that which is eſſentially repugnant to diſ<g ref="char:EOLhyphen"/>orders, they will have nothing eſſen<g ref="char:EOLhyphen"/>tially repugnant to any diſorder what<g ref="char:EOLhyphen"/>ſoever, and ſo will be expoſed to all, and unable to preſerve themſelves from any one. Which notwithſtanding ap<g ref="char:EOLhyphen"/>pears manifeſtly falſe, to all who caſt an eye upon the conſtant Symmetry, Splendor, and Proportion of this Uni<g ref="char:EOLhyphen"/>verſe, and the ſpecious progreſs of na<g ref="char:EOLhyphen"/>tural cauſes and effects; which though wholly empty of the light of reaſon, digeſt all things conformably to the rule of reaſon. I anſwer, that the Ar<g ref="char:EOLhyphen"/>gument contends not, that actual be<g ref="char:EOLhyphen"/>ings not inriched with the uſe of rea<g ref="char:EOLhyphen"/>ſon, cannot conform themſelves to the preſcript of reaſon in many things, but
+<pb n="51" facs="tcp:42481:36"/>that they cannot effect it of themſelves in all things, as not retaining any thing eſſentially repugnant to all in<g ref="char:EOLhyphen"/>conveniences (which may be caſt upon them) in the actuality of their beings; for if they had any ſuch perfection, they could not poſſibly be obnoxious to the leaſt diſorder: that conformity therefore which they have to reaſon, and the reſiſtance to many accidents of diſorder thwarting the laws of reaſon, they injoy not from themſelves, but from reaſon, and that onely ſo far as they flow from reaſon, and are certain particles and participations of reaſon. That this may be underſtood, I divide reaſon into two branches; the one active, the other paſſive; the one work<g ref="char:EOLhyphen"/>ing, the other wrought; the one con<g ref="char:EOLhyphen"/>ceiving, the other expreſſing what it conceives; the one may be termed not unfitly. <hi>Ratio ratiocinans, Reaſon reaſon<g ref="char:EOLhyphen"/>ing,</hi> the other, <hi>Ratio ratiocinata, Reaſon reaſoned.</hi> Thus the Idea of ſome cu<g ref="char:EOLhyphen"/>rious
+<pb n="52" facs="tcp:42481:37"/>and ſumptuous building framed in the minde of a skilful Architect, is <hi>Reaſon reaſoning;</hi> that is, contriving, working, acting, ordering, digeſting, the prefect proportion of that building within it ſelf. But the building it ſelf accompliſhed according to the Idea, will be <hi>Ratio ratiocinata, Reaſon reaſoned,</hi> that is, wrought, expreſſed, formed, and framed according to the thoughts of that Idea. Thus a learned perſon com<g ref="char:EOLhyphen"/>poſes a Treatiſe both according to be ſenſe and words, by his inward thoughts, which are <hi>Reaſon reaſoning;</hi> and after couches it in writing, which is <hi>Reaſon reaſoned;</hi> and though who<g ref="char:EOLhyphen"/>ſoever contemplates with a conſiderate eye, the ſtrength and art of reaſon, compriſed in ſuch expreſſions, yet he plainly diſcovers that neither the parts of the Building, nor the words of the Treatiſe had it from themſelves, but from a working and active reaſon ex<g ref="char:EOLhyphen"/>preſſing it ſelf in them: and though
+<pb n="53" facs="tcp:42481:37"/>thoſe parts and words, ſo long as they remain conform to that reaſon which framed them, cannot ſwerve from rea<g ref="char:EOLhyphen"/>ſon, nor fall into diſorder, or non<g ref="char:EOLhyphen"/>ſenſe, yet they contain nothing in their actual beings which eſſentially repugns againſt the diſordering and depraving them, but would retein them no leſs being diſſipated and diſordered, then they did before. And if the <hi>reaſon</hi> from whence they iſſued were ſo vigor<g ref="char:EOLhyphen"/>ous and active, that it conſtituted them in ſo firm a conſiſtency of that poſture and order, which it imprinted upon them, that no natural cauſe ſhould have power to deface or ſully it; yet even that immobility would diſcloſe it ſelf to a piercing eye, no more to proceed from it, then it proceeded from it ſelf. And though ſuch a conſtant beauty and <hi>decorum</hi> could not be intereſſed by the force of nature, or diſturbed in its courſe; yet that touches not the eſſen<g ref="char:EOLhyphen"/>tial, but the natural, or well-being of
+<pb n="54" facs="tcp:42481:38"/>it; not that it would loſe its being, were it put in ſome diſorder, but that nothing in nature is impowered to diſorder it.</p>
+               <p>Thus though the cariere of the Sun and Heavens finde no obſtancle or <hi>re<g ref="char:EOLhyphen"/>mora</hi> in nature, yet were they curbed in their full ſpeed, they would not in a moment fall to nothing.</p>
+               <p>By this diſtinction thus illuſtrated, (whereon I will more inſiſt hereafter) it is evidenced, that the light of reaſon is onely eſſentially oppoſed to all in<g ref="char:EOLhyphen"/>conveniences and deordinations; and that whenſoever that which is not il<g ref="char:EOLhyphen"/>luſtrated with this active light, pre<g ref="char:EOLhyphen"/>ferves it ſelf from any of them, it pro<g ref="char:EOLhyphen"/>ceeds not originally, or eſſentially, from it, but from that participation of paſ<g ref="char:EOLhyphen"/>ſive reaſon, which the active hath in<g ref="char:EOLhyphen"/>fuſed into it.</p>
+               <p>Seeing therefore that all the beauty and <hi>decorum</hi> of irrational beings, is onely a copy drawn by the alive hand
+<pb n="55" facs="tcp:42481:38"/>of Reaſon, <hi>the ninth Propoſition remains evident, That nothing can be an actual being eſſentially, and of it ſelf, which is not indued with the light of Reaſon.</hi>
+               </p>
+               <p>Hence therefore followes firſt, the implicancy of that old, deceaſed, bu<g ref="char:EOLhyphen"/>ried, rotten, and conſumed Error, now lately raked out of the aſhes of Hea<g ref="char:EOLhyphen"/>theniſh Ignorance, and Poetical Ficti<g ref="char:EOLhyphen"/>ons, That there is an univerſal Matter, infinite in extent, and eternall in du<g ref="char:EOLhyphen"/>rance, without beginning or ending, whoſe being is eſſentially actual, and of it ſelf, incapable of being produ<g ref="char:EOLhyphen"/>ced, or deſtroyed by any cauſe what<g ref="char:EOLhyphen"/>ſoever. For ſeeing this ſuppoſed mat<g ref="char:EOLhyphen"/>ter is not indued eſſentially with the actual light of reaſon, nay, is ſo far from it; that it is in the leaſt capacity of all other things, to preſerve it ſelf from diſorders; as being nothing but a compact of diſorders, a chaos of confuſion, and a being ſo rude and de<g ref="char:EOLhyphen"/>formed, that were not there ſome in<g ref="char:EOLhyphen"/>telligent
+<pb n="56" facs="tcp:42481:39"/>cauſe to order and digeſt it in<g ref="char:EOLhyphen"/>to ſome form and faſhion, it would remain the moſt abſurd of all beings, and the very next to nothing; having, as they coin it, all things in power or poſſibility and yet being nothing of any thing which it hath. In a word, it is no better, when theſe new inven<g ref="char:EOLhyphen"/>tors have made the beſt of it, then all things in diſorder: it is the Mirror of miſule, the Embrio of beings, the World in a lump, Heaven and Earth in morter; and the firſt edition of Ab<g ref="char:EOLhyphen"/>ſurdities written in the large volumes of infinty. For whether they make it conſiſt of Atomes, as the Ancients did, or of different Spirits, as others lately have conceited, it is nothing but infinite confuſed mixtures both of the one and the other, till brought into ſome fixed poſture and proportion, ſome determinate being is drawn out of it. Is it then poſſible to conceive, that ſuch anear alliance to nothing, as
+<pb n="57" facs="tcp:42481:39"/>this <hi>Matter</hi> is, ſhould arrive to that infinite height of perfection, to be eſ<g ref="char:EOLhyphen"/>ſentially and actual being, of, and from it ſelf? Were it of it ſelf, it muſt be eſſentially and abſoluterly neceſſary, as is proved; but what abſolute neceſſity is there of abſurdities and diſorders? Were it wholly neceſſary, it could ad<g ref="char:EOLhyphen"/>mit of no change or alteration; for whatſoever is eſſentially neceſſary, is, and muſt be always, what ever it was: but this ſuppoſed Matter is, and ever was, and will be ſubject to infinite al<g ref="char:EOLhyphen"/>terations, putting on perpetually new forms, poſtures, proportions, mixtures, diſtances, approximations, places, fi<g ref="char:EOLhyphen"/>gures, correſpondences, conjunctions, ſeparations, unities, diviſions, conti<g ref="char:EOLhyphen"/>nuations, contiguities, and a thouſand more, ſo that it is conſtant in nothing but inconſtancy; were it an actual be<g ref="char:EOLhyphen"/>ing eſſentially, it muſt be a rule of rectitude to it ſelf, and ſo be eſſential rectitude, excluding all diſorders;
+<pb n="58" facs="tcp:42481:40"/>when this <hi>Matter</hi> has diſorder coeternal with it, and coeſſential to it. How came it alone of it ſelf to give being to it ſelf, when of it ſelf alone it can give a determinate being to nothing elſe, but onely ſuffer other active and efficient cauſes, to make out of it, de<g ref="char:EOLhyphen"/>terminate beings?</p>
+               <p>Let therefore the authors of this moſt pernicious and Antichriſtian no<g ref="char:EOLhyphen"/>velty, either prove that this infinite, eternal, and uncreated matter, had from all eternity a moſt perfect actual light and uſe of underſtanding, to re<g ref="char:EOLhyphen"/>ctifie it ſelf according to the perfect rule of reaſon; or confeſs that it muſt eſſentially depend in the actuality of its being, of ſome cauſe indued with ſuch a light: or all the world will ſee that they ſpeak againſt reaſon, and de<g ref="char:EOLhyphen"/>ceive themſelves, and others, by a vain and ſenſleſs fiction.</p>
+               <p>Hence alſo it followes evidently againſt <hi>Ariſlotle,</hi> that the whole <hi>Moles,</hi>
+                  <pb n="59" facs="tcp:42481:40"/>or fabrick of this viſible World, could not be of it ſelf, or eſſentially, an actual being, without any cauſe; for neither the Earth, whereof all inferior viſible things are naturally compoſed, nor the other Elements, nor the ſpaci<g ref="char:EOLhyphen"/>ous body of the Heavens, nor that glory of the Sun, not that beauty of the Moon, nor that luſtre of the Stars, nor that admirable compoſition and proportion of the bodies of Men and Beaſts (ſeeing they are ſo far from poſ<g ref="char:EOLhyphen"/>ſeſſing the light of Reaſon, that have neither ſenſe nor life: nor Plants and Trees, though they have ſome degree of life) nor Beaſts, Birds, and Fiſh, though they have life and ſenſe, be<g ref="char:EOLhyphen"/>cauſe none of theſe have the light of Reaſon: no nor the Souls of men, nor the Angels themſelves, though indued with the light of Reaſon and Under<g ref="char:EOLhyphen"/>ſtanding, can poſſibly have been eſſen<g ref="char:EOLhyphen"/>tially actual beings, and from them<g ref="char:EOLhyphen"/>ſelves; for the actual light of reaſon
+<pb n="60" facs="tcp:42481:41"/>which they have, is not eſſential, but accidental to their beings; becauſe, as appears in Infants, they can be actually, without the actual uſe of reaſon. All therefore that is eſſentially included in the actual being of an Angel, or hu<g ref="char:EOLhyphen"/>mane Soul, is to be a power, or vertue, able to uſe reaſon and underſtanding; ſo that they are truly conceived to be, before they are conceived to exerciſe reaſon: wherefore, they can be actual<g ref="char:EOLhyphen"/>ly no more of themſelves, then any other thing which hath no ſuch power; for it is not the power to uſe reaſon, but the actual uſe of reaſon, which en<g ref="char:EOLhyphen"/>ables any thing to exclude eſſentially all diſorders, and defects againſt reaſon from it ſelf. Seeing therefore Men and Angels muſt be ſuppoſed to be actually, before they can be ſuppoſed to produce any act of reaſon, (for the being of all cauſes muſt be preſuppo<g ref="char:EOLhyphen"/>ſed to the production of their effects, for nothing can produce nothing) their
+<pb n="61" facs="tcp:42481:41"/>beings include not eſſentially the actu<g ref="char:EOLhyphen"/>al uſe of reaſon, and ſo cannot eſſenti<g ref="char:EOLhyphen"/>ally exclude all deviations and deordi<g ref="char:EOLhyphen"/>nations from reaſon, which can be one<g ref="char:EOLhyphen"/>ly effected by an act of reaſon.</p>
+               <p>Hence alſo follows, the actual uſe of Reaſon, or the acts of Reaſon, as they are experienced and actuated amongſt men, (and the ſame is of Angels) can<g ref="char:EOLhyphen"/>not be of themſelves, or eſſentially ne<g ref="char:EOLhyphen"/>ceſſary, both becauſe they preſuppoſe the beings of Men and Angels, as their producing cauſe; as alſo, becauſe ſuch acts of reaſon being limited and finite, though they may eſſentially ex<g ref="char:EOLhyphen"/>clude ſorne diſorders, yet they are ſtill ſubject to a thouſand, or rather infinite others, which by reaſon of their nar<g ref="char:EOLhyphen"/>rowneſs and ſhallowneſs, they can nei<g ref="char:EOLhyphen"/>ther foreſee, nor prevent, nor remedy. Theſe truths therefore being ſettled, I come to the tenth Propoſition.</p>
+            </div>
+            <div n="10" type="proposition">
+               <pb n="62" facs="tcp:42481:42"/>
+               <head>
+                  <hi>The tenth Propoſition.</hi> Onely Actual Reaſon, in its full perfecti<g ref="char:EOLhyphen"/>on and latitude, that is, Reaſon it ſelf, is an actual being eſſentially neceſ<g ref="char:EOLhyphen"/>ſary.</head>
+               <head type="sub">Proof.</head>
+               <p>THis Propoſition follows evident<g ref="char:EOLhyphen"/>ly from the precedent; for ſeeing there is now, ever was, and ſhall be ſomething in actual being, and that this could not be, unleſſ there had been alwayes ſome thing, or things, eſſen<g ref="char:EOLhyphen"/>tiall neceſſary; and that nothing fru<g ref="char:EOLhyphen"/>ſtrate, diſordered, defective, or abſurd, actually, or poſſibly, can be a neceſſary actual being: and that whatſoever hath not the light of reaſon, actually exer<g ref="char:EOLhyphen"/>ciſed, nay, even acts of reaſon limited and imperfect, cannot eſſentially ex<g ref="char:EOLhyphen"/>clude all diſorders and inconveniences, &amp;c. from their actual beings; it fol<g ref="char:EOLhyphen"/>lows
+<pb n="63" facs="tcp:42481:42"/>inevitably, that actual reaſon in its full perfection, or reaſon it ſelf, and that onely, is an actual being eſſentially neceſſary: which Argument may be thus framed by way of reſolution. If actual reaſon it ſelf, or in its full per<g ref="char:EOLhyphen"/>fection, be not eſſentially a neceſſary actual being, all other things would be ſubject to diſorder; if all were ſubject to diſorder, nothing could be eſſenti<g ref="char:EOLhyphen"/>ally neceſſary; if nothing were neceſ<g ref="char:EOLhyphen"/>ſary, nothing could have been which is not eſſentially neceſſary; that ſup<g ref="char:EOLhyphen"/>poſed, no actual being could be now; but is moſt manifeſt that there is now ſome actual being, therefore from the firſt to the laſt, Reaſon it ſelf, muſt be eſſentially a neceſſary actual being.</p>
+               <p>Or yet more briefly and clearly thus: Something muſt be eſſentially neceſſa<g ref="char:EOLhyphen"/>ry, as is proved in the fourth Propoſi<g ref="char:EOLhyphen"/>tion; but nothing (as is proved in the following Propoſitions) which is not reaſon in ſelf, or in its full perfection,
+<pb n="64" facs="tcp:42481:43"/>can be eſſentially neceſſary; therefore onely reaſon it ſelf in its full perfecti<g ref="char:EOLhyphen"/>on is eſſentially neceſſary.</p>
+            </div>
+            <div n="11" type="proposition">
+               <head>
+                  <hi>The eleventh Propoſition.</hi> Onely Actual Reaſon in its full perfection, or Reaſon it ſelf, is eſſentially an actual being of it ſelf.</head>
+               <head type="sub">Proof.</head>
+               <p>THough I uſe onely in theſe and the former Propoſitions the word, <hi>Actual Reaſon,</hi> becauſe it is the fitteſt in our language to expreſs my mean<g ref="char:EOLhyphen"/>ing, yet I take indifferently for Syno<g ref="char:EOLhyphen"/>noma's, or words of the ſame ſignifi<g ref="char:EOLhyphen"/>cation, <hi>Actual Reaſon, Underſtanding, Knowledge, Wiſdom,</hi> and the like; all being in reality the ſame thing: this premiſed, I prove the Propoſition.</p>
+               <p>This Propoſition is manifeſt: firſt, from the precedent and ſixth Propoſi<g ref="char:EOLhyphen"/>tion,
+<pb n="65" facs="tcp:42481:43"/>wherein is proved, that whatſo<g ref="char:EOLhyphen"/>ever is an actual being eſſentially ne<g ref="char:EOLhyphen"/>ceſſary, is of it ſelf. Secondly, from the Arguments for proof of the former Propoſition. Thirdly, <hi>a priori,</hi> or from the very nature of Reaſon it ſelf, thus: That muſt neceſſarily be of it ſelf, which muſt be, and cannot poſſi<g ref="char:EOLhyphen"/>bly be conceived to be from any thing elſe: But reaſon it ſelf muſt be, as is proved from the former Propoſition, and cannot poſſibly be conceived to be from any thing elſe, <hi>Ergo,</hi> &amp;c. The <hi>Major</hi> is moſt evident; the firſt part of the <hi>Minor</hi> is already proved; I prove the ſecond part of the <hi>Minor.</hi> If reaſon it ſelf could poſſibly be conceived to be from any thing elſe, that from which it is conceived to be, muſt be either wholly devoid of reaſon, or indued with imperfect reaſon, or reaſon it ſelf in its full perfection. It cannot be from reaſon it ſelf as from any thing diſtinct from it ſelf I for reaſon it ſelf
+<pb n="66" facs="tcp:42481:44"/>cannot be any thing but what it is, to wit, reaſon it ſelf. Neither can it pro<g ref="char:EOLhyphen"/>ceed from imperfect reaſon; for no cauſe can totally produce any thing perfecter then it ſelf; for nothing can give that to another which it hath not it ſelf: now it is evident, that reaſon in its full perfection, is perfecter then imperfect reaſon. Neither can it be produced, by any thing devoid of rea<g ref="char:EOLhyphen"/>ſon, for the ſame reaſon; for that which is reaſon it ſelf, is more perfect (according to all Philoſophers) then that which hath in it no reaſon at all, and the reaſon hereof is evident; for that which eſſentially excludes all im<g ref="char:EOLhyphen"/>perfections, as is already proved, rea<g ref="char:EOLhyphen"/>ſon it ſelf does, muſt be more perfect then that which excludes them not, as is above demonſtrated, that nothing devoid of the light of reaſon can ex<g ref="char:EOLhyphen"/>clude them all eſſentially; therefore reaſon in it's full perfection muſt be of it ſelf. Fourthly, I prove the ſaid Pro<g ref="char:EOLhyphen"/>poſition
+<pb n="67" facs="tcp:42481:44"/>by another Argument, <hi>a priori,</hi> in this manner. Whatſoever hath in it ſelf all things eſſentially required to be of it ſelf, muſt neceſſarily be of it ſelf; this is evident: But reaſon in its full perfection, hath all things eſſenti<g ref="char:EOLhyphen"/>ally required to be of it ſelf, in it ſelf; Therefore it is of it ſelf. I prove the <hi>Minor.</hi> All that can be conceived to be eſſentially required for any thing to be of it ſelf, is, that it ſelf be a moſt perfect actual rule of Rectitude to it ſelf; for this is to be its owne rule, its own meaſure, its own directi<g ref="char:EOLhyphen"/>on, its own rectitude, light, know<g ref="char:EOLhyphen"/>ledge, life, being, exiſtency; for were ſuch a being from any thing ſave it ſelf, that from which it proceeded, as from a different cauſe, would be the rule of rectitude and perfection to it, and not it ſelf to it ſelf; for the totall cauſe muſt always be the rule and meaſure of all the perfections which are in the effect; for whatſoever is in the effect,
+<pb n="68" facs="tcp:42481:45"/>muſt have been precedently in the cauſe, for <hi>nothing can give that which it hat not:</hi> whatſoever therefore is a moſt perfect actual rule and meaſure to it ſelf, muſt be equivalently as much to it ſelf, as if it were its own cauſe; and be as truly and adequately of it ſelf, as other things are from their total cauſes: ſo that if it have no other rule, nor meaſure of rectitude and perfection then it ſelf, it can have no cauſe at all different from it ſelf, and ſo muſt have its actual being eſſentially of it ſelf. Now I ſubſume, but actual reaſon in its full perfection, is a moſt perfect actual rule of rectitude to it ſelf; therefore actual reaſon in its full per<g ref="char:EOLhyphen"/>fection, is an actual being eſſentially of it ſelf. The conſequence is clear, I prove the <hi>Minor</hi> Actual reaſon it ſelf, or in its full perfection, is a moſt per<g ref="char:EOLhyphen"/>fect actual underſtanding and compre<g ref="char:EOLhyphen"/>henſion of it ſelf; it is, <hi>Intellectio <gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pſius intellectionis, An actual underſtanding
+<pb n="69" facs="tcp:42481:45"/>of actual underſtanding:</hi> it is <hi>Cognitio cognitionis, A knowledge of knowledge.</hi> For it would not be reaſon and under<g ref="char:EOLhyphen"/>ſtanding in its full perfection, if it were ignorant of any thing; and if it know not it ſelf, it muſt be ignorant of ſome<g ref="char:EOLhyphen"/>thing, nay, of the beſt of all things. Seeing therefore it is a moſt perfect knowledge of it ſelf, it is a guide and rule unto it ſelf; and being reaſon it ſelf, which is the original rule of all rectitude, it muſt be a moſt perfect rule of rectitude to it ſelf, and ſo muſt be its own <hi>rectitude,</hi> and <hi>rectitude</hi> it ſelf; for it is impoſſible to conceive, that reaſon it ſelf either ſhould be contrary to reaſon, or admit of any thing in it ſelf contrary to reaſon; for <hi>then reaſon ſhould not be reaſon.</hi> And thus I have made way to the twelfth and laſt Pro<g ref="char:EOLhyphen"/>poſition.</p>
+            </div>
+            <div n="12" type="proposition">
+               <pb n="70" facs="tcp:42481:46"/>
+               <head>
+                  <hi>The twelfth Propoſition.</hi> Reaſon it ſelf, being eſſentially neceſſary, and of it ſelf, is God.</head>
+               <head type="sub">Proof.</head>
+               <p>THis Propoſition is clear, <hi>ex ter<g ref="char:EOLhyphen"/>minis,</hi> by the bare notion of the terms wherein it is propounded; for the true God was never conceived by any who had a real notion of him, to be any thing, ſave actual Intellection, or Reaſon if ſelf, eſſentially neceſſary and of it ſelf; an eſſentiall rule of Re<g ref="char:EOLhyphen"/>ctitude to it ſelf; a moſt clear compre<g ref="char:EOLhyphen"/>henſive Knowledge of it ſelf, or neceſ<g ref="char:EOLhyphen"/>ſary excluſion of all defects and defor<g ref="char:EOLhyphen"/>mities from it ſelf; the Quinteſſence of all true perfection within it ſelf, and the ſource of all beings without it ſelf. Seeing therefore I have evidently pro<g ref="char:EOLhyphen"/>ved in the former Propoſitions, that
+<pb n="71" facs="tcp:42481:46"/>there is now ſomething in actual be<g ref="char:EOLhyphen"/>ing; and thence evidently deduced, the neceſſity of the actual being of <hi>Rea<g ref="char:EOLhyphen"/>ſon it ſelf,</hi> beautified with all theſe admirable perfections; I have made evident, what I intended and promiſed in the Title of this ſmall Treatiſe, that there is a God: and therefore may ſafe<g ref="char:EOLhyphen"/>ly conclude, there is either <hi>A GOD, OR NOTHING;</hi> but it is evident there is ſomething, therefore it is evi<g ref="char:EOLhyphen"/>dent there is <hi>A GOD.</hi> From this truth that God is reaſon it ſelf, or in its full perfection, I draw theſe inſuing Corrollaries, or Deductions; of the Attributes of God.</p>
+            </div>
+            <div n="1" type="attribute">
+               <head>The firſt Attribute. <hi>The Unity of God.</hi>
+               </head>
+               <p>SEeing God is Reaſon it ſelf, that is, all the perfections of the Reaſon ſum<g ref="char:EOLhyphen"/>med up and identified in one and the
+<pb n="72" facs="tcp:42481:47"/>ſame actual being, it is impoſſible to conceive, that there ſhould be more <hi>true Gods'</hi> then <hi>One.</hi>
+               </p>
+            </div>
+            <div n="2" type="attribute">
+               <head>The ſecond Attribute. <hi>God's Indiviſibility.</hi>
+               </head>
+               <p>VVHatſoever is diviſible may be divided into parts, as is clear; but Reaſon it ſelf cannot be di<g ref="char:EOLhyphen"/>vided into parts: for whenſoever any whole is divided into parts, the whole is deſtroyed but Reaſon it ſelf cannot be deſtroyed, for it is eſſentially a ne<g ref="char:EOLhyphen"/>ceſſary actual being, which cannot but be, as is proved; therefore God, being Reaſon it ſelf, is not diviſible.</p>
+            </div>
+            <div n="3" type="attribute">
+               <pb n="73" facs="tcp:42481:47"/>
+               <head>
+                  <hi>The third Attribute.</hi> The Spirituality of God.</head>
+               <p>GOd is Reaſon it ſelf; therefore he eſſentially excludes all things which are obnoxious to diſorders, or deviations from Reaſon: but every corporeal ſubſtance is of it ſelf ob<g ref="char:EOLhyphen"/>noxious to ſuch defects, as is proved; therefore God is no corporeal ſub<g ref="char:EOLhyphen"/>ſtance; therefore he is oneſy ſpiritual.</p>
+            </div>
+            <div n="4" type="attribute">
+               <head>
+                  <hi>The fourth Attribute.</hi> The Simplicity of God's being.</head>
+               <p>GOd is Reaſon it ſelf; Reaſon it ſelf is reaſon <hi>in abſtracto;</hi> things abſtracted are ſimple eſſences, or be<g ref="char:EOLhyphen"/>ings, without all concretion or com<g ref="char:EOLhyphen"/>poſition; therefore God is moſt ſimple and pure in his being, without all com<g ref="char:EOLhyphen"/>mixtion
+<pb n="74" facs="tcp:42481:48"/>or compoſition of parts, eſ<g ref="char:EOLhyphen"/>ſential or integral; for had he any parts, thoſe parts could be nothing but different Reaſons; for Reaſon can con<g ref="char:EOLhyphen"/>ſiſt of nothing but Reaſon; and then he would be a compound of differen Reaſons, and not Reaſon it ſelf: which is a moſt ſimple identity, without all compoſition of different things united together, but not identified, in one im<g ref="char:EOLhyphen"/>perfect compound.</p>
+            </div>
+            <div n="5" type="attribute">
+               <head>
+                  <hi>The fifth Attribute.</hi> The Ubiquity of God.</head>
+               <p>ALL things muſt proceed <hi>immedi<g ref="char:EOLhyphen"/>ately</hi> from Reaſon it ſelf; there<g ref="char:EOLhyphen"/>fore Reaſon it ſelf muſt be in all things, for nothing can produce any thing <hi>im<g ref="char:EOLhyphen"/>mediately,</hi> if it be diſtant from that thing which it produces; for if it be diſtant, it muſt work by ſome efficient vertue, or quality, iſſuing from it
+<pb n="75" facs="tcp:42481:48"/>though that diſtance, and then it works not <hi>immediately,</hi> but by inter<g ref="char:EOLhyphen"/>jection of that diffuſed vertue, which onely works <hi>immediately:</hi> if therefore all things muſt proceed from Reaſon it ſelf <hi>immediately,</hi> Reaſon it ſelf can be diſtant from nothing; and becauſe it cannot in it ſelf be contiguous to any thing, by reaſon that it hath no corpo<g ref="char:EOLhyphen"/>real Quantity to fill any place, it muſt be in the very eſſence of the thing which it produces: if therefore that which it produces be a corporeal thing and actually fill any place, becauſe Reaſon is in that thing, it is ſaid truly to be in that place, where that corpo<g ref="char:EOLhyphen"/>real thing is, and conſequently to be every where, that is, in all real places, where any thing capable of it ſelf to be in a place is collocated. The dif<g ref="char:EOLhyphen"/>ficulty is in the firſt Propoſition: <hi>viz.</hi> That all things muſt proceed immediately from Reaſon it ſelf. This I prove. Every thing muſt proceed from
+<pb n="76" facs="tcp:42481:49"/>Reaſon it ſelf, therefore every thing muſt proceed immediately from Rea<g ref="char:EOLhyphen"/>ſon it ſelf. The ancecedent is already proved: I prove the conſequence. Whatſoever proceeds from Reaſon it ſelf cannot contain any thing contrary to Reaſon, for Reaſon it ſelf can do nothing contrary to Reaſon; for ſo Reaſon ſhould be contrary to Reaſon, and then it would not be Reaſon; but whatſoever proceeds not <hi>immediately</hi> from Reaſon it ſelf, may contain ſome<g ref="char:EOLhyphen"/>thing contrary to Reaſon; therefore whatſoever proceeds from Reaſon it ſelf, muſt proceed <hi>immediately</hi> from Reaſon it ſelf. I prove the <hi>Minor.</hi> Whatſoever proceeds totally and ad<g ref="char:EOLhyphen"/>equately from any other immediate cauſe then Reaſon it ſelf, may contain ſomething (<hi>viz.</hi> in its actual being, at leaſt according to ſome circumſtance or other) which is contrary to Reaſon; therefore nothing can proceed totally from any immediate cauſe, ſave Reaſon
+<pb n="77" facs="tcp:42481:49"/>it ſelf, if all things proceed from Rea<g ref="char:EOLhyphen"/>ſon it ſelf, and nothing which pro<g ref="char:EOLhyphen"/>ceeds from Reaſon it ſelf, can contain any thing contrary to Reaſon, as is now proved. That whatſoever pro<g ref="char:EOLhyphen"/>ceeds totally and adequately from any immediate cauſe ſave Reaſon it ſelf, may contain ſomething contrary to Reaſon, is already made evident; for seeing all ſuch cauſes are ſubject to Ignorance, and devoid of infallible di<g ref="char:EOLhyphen"/>rective knowledge of all circumſtan<g ref="char:EOLhyphen"/>ces which may occur in the immedi<g ref="char:EOLhyphen"/>ate total production of ſuch effects, they are obnoxious to fall into ſome imprudent and unprovident proceed<g ref="char:EOLhyphen"/>ing in the production of them, left wholly to themſelves: Seeing there<g ref="char:EOLhyphen"/>fore all things muſt proceed from Rea<g ref="char:EOLhyphen"/>ſon it ſelf leſt this imprudence com<g ref="char:EOLhyphen"/>mitted in the production of any effect ſhould be aſcribed to reaſon it ſelf, as an effect to its cauſe, it is plainly ne<g ref="char:EOLhyphen"/>ceſſary; that all other cauſes (I ſpeak of
+<pb n="78" facs="tcp:42481:50"/>neceſſary, not free cauſes, of which we ſhall treat hereafter) ſhould be imme<g ref="char:EOLhyphen"/>diately directed, and preſerved from ſuch errors and deviations, by the in<g ref="char:EOLhyphen"/>fallible, all-ſeeing Wiſdom, and Pro<g ref="char:EOLhyphen"/>vidence of Reaſon it ſelf; ſo that all circumſtances and things conſidered, and compared together, there will be no real being, produced contrary to reaſon, or ſullied with the leaſt diſor<g ref="char:EOLhyphen"/>der. Now this direction of reaſon it ſelf, ſeeing it muſt reach to all, and eve<g ref="char:EOLhyphen"/>ry the leaſt action of all neceſſary cau<g ref="char:EOLhyphen"/>ſes, is the immediate influence and con<g ref="char:EOLhyphen"/>courſe of reaſon it ſelf into every ef<g ref="char:EOLhyphen"/>fect; for it contains a decree of reaſon it ſelf, that ſuch effects be actually pro<g ref="char:EOLhyphen"/>duced in ſuch determinate circumſtan<g ref="char:EOLhyphen"/>ces, and by means of ſuch cauſes: for it is not poſſible to conceive the con<g ref="char:EOLhyphen"/>courſe of God, to be any thing, ſave reaſon it ſelf effectually decreeing, and defining the actual being of all things which ever were, are, or ſhall be, in
+<pb n="79" facs="tcp:42481:50"/>their fit circumſtances, all things and occurrences conſidered, as I ſhall here<g ref="char:EOLhyphen"/>after make manifeſt. Thus therefore I have proved, that reaſon it ſelf produ<g ref="char:EOLhyphen"/>ces immediately all things, and ſo is in all things; and conſequently by rea<g ref="char:EOLhyphen"/>ſon that all places are filled with theſe things, in which reaſon it ſelf is, by means of them it is in all places; and if corporal thing could be in infinite places, it would alſo be in infinite pla<g ref="char:EOLhyphen"/>ces, which is the proper notion of Gods Ubiquity: for that is nothing elſe, then that it is impoſſible that any place ſhould be, in which God is not, And I adde farther, that if place, or ubication, be any thing diſtinct from the thing which is in place, that God is in that alſo, for the ſame reaſons, as he is in all other things; not as locally contained immediately in theſe places, but as being the immediate producing cauſe of thoſe realities, or modificati<g ref="char:EOLhyphen"/>ons, which are called <hi>places,</hi> or <hi>ubies:</hi> and
+<pb n="80" facs="tcp:42481:51"/>this preſence of God in all things is to be confidered for the firſt inſtant, or priority of Nature, (as the School ſpeaks) which reſpects the actual being of every thing in it ſelf, or before it be conſidered in time and place; ſo that it is not a local, but a cauſal preſence, not including place, but yet excluding local diſtance from any thing which ſuppoſes place.</p>
+            </div>
+            <div n="6" type="attribute">
+               <head>
+                  <hi>The ſixth Attribute.</hi> The Eternity of God.</head>
+               <p>ETernity may be taken either im<g ref="char:EOLhyphen"/>properly, for a ſucceſſion of time without beginning or ending; and in this ſenſe, God is not in himſelf eter<g ref="char:EOLhyphen"/>nal, becauſe he hath no change of be<g ref="char:EOLhyphen"/>ing, of parts, or properties, which may ſucceed one to another, and be mea<g ref="char:EOLhyphen"/>ſured by time: ſo that according to this improper acception, he can onely
+<pb n="81" facs="tcp:42481:51"/>be ſaid <hi>Denominative,</hi> or by way of de<g ref="char:EOLhyphen"/>nomination, (ſuppoſing that any changeable beings have been alwayes, or in all times, without beginning) to be in all times, or eternally by ſuc<g ref="char:EOLhyphen"/>ceſſion, becauſe he hath (if this ſuppo<g ref="char:EOLhyphen"/>ſition were true) been in all thoſe be<g ref="char:EOLhyphen"/>ings which have been from ſucceſſive eternity; no otherwiſe then I have de<g ref="char:EOLhyphen"/>clared in the former Attribute, that he is ſaid to be in local and diviſible places. Or eternity is taken properly, for an unſucceſſive, and ſimultaneous, or indiviſible durance, whereby God at once is what he is totally, and un<g ref="char:EOLhyphen"/>changeably; ſo that as he ſums up all perfections in his indiviſible being, ſo he ſums up all inſtants and parts of time, in one indiviſible point of his eternal durance. God therefore being reaſon it ſelf, and that being eſſentially a neceſſary actual being, as is proved, it is impoſſible that he ſhould ever be truly conceived, either not to be, or to
+<pb n="82" facs="tcp:42481:52"/>be any thing but what he is, and con<g ref="char:EOLhyphen"/>ſequently in himſelf, and according to his eſſence he is moſt properly eternal.</p>
+            </div>
+            <div n="7" type="attribute">
+               <head>
+                  <hi>The ſeventh Attribute.</hi> The Omniſciency of God.</head>
+               <p>REaſon it ſelf can be ignorant of nothing; for were it ignorant of any thing, in that whereof it is igno<g ref="char:EOLhyphen"/>rant, it might admit, or do ſomething contrary to reaſon, as not being an eſ<g ref="char:EOLhyphen"/>ſentical rule of rectitude to it ſelf, in ſuch things whereof it is ignorant; for if it knew them not, it could not deter<g ref="char:EOLhyphen"/>mine, whether they were conformable to reaſon or no; but reaſon it ſelf can neither admit into it ſelf, nor do any thing contrary to reaſon, for then <hi>Rea<g ref="char:EOLhyphen"/>ſon ſhould not be reaſon,</hi> Ergo, &amp;c.</p>
+            </div>
+            <div n="8" type="attribute">
+               <pb n="83" facs="tcp:42481:52"/>
+               <head>The eighth Attribute. <hi>Of Gods Omnipotency.</hi>
+               </head>
+               <p>VVHatſoever hath, or can have any finite being, muſt be ſquared according to reaſon; there<g ref="char:EOLhyphen"/>fore it muſt be a participation, or ex<g ref="char:EOLhyphen"/>preſſion of the firſt reaſon; therefore it muſt proceed from the firſt reaſon, or reaſon it ſelf; therefore God being Reaſon in ſelf, whatſoever hath, or can have a being muſt proceed from God; therefore God is Omnipotent. Or thus. It is reaſon that whatſoever rea<g ref="char:EOLhyphen"/>ſon it ſelf judges to be put in actual being, ſhould be put in actual being; this is clear: but whenſoever it is rea<g ref="char:EOLhyphen"/>ſon (all things conſidered) that any thing ſhould be done, that is to be done; therefore whenſoever reaſon it ſelf judges that any thing ſhould be put in actual being, it is to be put in actual being; therefore it cannot but
+<pb n="84" facs="tcp:42481:53"/>be, then when reaſon judges it ſhould be; therefore reaſon it ſelf, which is God, is Omnipotent, ſeeing every thing muſt be done, which he judges to be done. The difficulty will be in this <hi>Minor,</hi> viz. <hi>whenſoever it is reaſon (all things conſidered) that any thing ſhould be done, that is to be done, or muſt neceſſarily be done.</hi> Which I prove thus: All things muſt proceed imme<g ref="char:EOLhyphen"/>diately from reaſon, as is proved; therefore all things muſt be done ac<g ref="char:EOLhyphen"/>cording to reaſon, for reaſon can do nothing contrary to reaſon; but it would be contrary to reaſon, not to have that done which reaſon dictates, (all things conſidered) ſhould be done; therefore whatſoever reaſon dictates or judges (all things conſidered) ſhould be done, that muſt neceſſarily be done. Seeing therefore, whatſoever can be, muſt be capable to be judged by rea<g ref="char:EOLhyphen"/>ſon it ſelf, that in ſome circumſtance or other it may be done, God can pro<g ref="char:EOLhyphen"/>duce
+<pb n="85" facs="tcp:42481:53"/>every thing, ſave himſelf, that can have can actual being; which is to be omnipotent.</p>
+               <p>Hence follows evidently, that thoſe who put any neceſſary actual being of it ſelf, ſave God who is reaſon it ſelf, take away the omnipotency of God; for they put ſome actual being diſtinct from God, and ſo not God, which God cannot produce: and hence ap<g ref="char:EOLhyphen"/>pears the vanity and blaſphemy of that new revived Opinion, of an Eternal Infinite Increated Matter, which I have already conſuted.</p>
+            </div>
+            <div n="9" type="attribute">
+               <head>
+                  <hi>The ninth Attribute.</hi> The Goodneſs of God.</head>
+               <p>TO be good is to be communica<g ref="char:EOLhyphen"/>tive of it ſelf to others; there<g ref="char:EOLhyphen"/>fore what which is moſt communicative of it ſelf, hath the greateſt goodneſs; but ſeeing all things muſt proceed im<g ref="char:EOLhyphen"/>mediately
+<pb n="86" facs="tcp:42481:54"/>from Reaſon it ſelf, which is God; God is the moſt communica<g ref="char:EOLhyphen"/>tive of himſelf to others; therefore God is the beſt of all things, or hath the greateſt goodneſs.</p>
+            </div>
+            <div n="10" type="attribute">
+               <head>
+                  <hi>The tenth Attribute.</hi> The Purity and Sanctity of God.</head>
+               <p>GOd is reaſon it ſelf; therefore he can do nothing contrary to rea<g ref="char:EOLhyphen"/>ſon: but all ſin is contrary to reaſon; therefore God can do no ſin, for then reaſon ſhould not be reaſon; therefore God eſſentially excludes all ſin, and ſo is more oppoſite to ſin then any thing elſe; for whatſoever is not reaſon it ſelf, being indued with imperfect un<g ref="char:EOLhyphen"/>derſtanding, hath nothing eſſentially in its actual being, which excludes all ſin; for every thing, which is not reaſon it ſelf, can act contrary to reaſon, being left to ſelf, and ſo may ſin. But the
+<pb n="87" facs="tcp:42481:54"/>higheſt Purity and Sanctity conſiſts in the greateſt oppoſition to all ſin; there<g ref="char:EOLhyphen"/>fore God hath the higheſt Purity and Sanctity of all other things. And by reaſon of this ſovereign Sanctity, God can neither command, nor counſel, nor approve, not be any way Author or favourer of any the leaſt ſin in others; for all theſe proceedings being contra<g ref="char:EOLhyphen"/>ry to reaſon, cannot be done by reaſon it ſelf.</p>
+            </div>
+            <div n="11" type="attribute">
+               <head>
+                  <hi>The eleventh Attribute.</hi> Of the infallible Veracity of God.</head>
+               <p>IF God could ſpeak any the leaſt un<g ref="char:EOLhyphen"/>truth, it muſt either proceed from Ignorance or Malice; not from Igno<g ref="char:EOLhyphen"/>rance, for Reaſon it ſelf being Know<g ref="char:EOLhyphen"/>ledge it ſelf, can be ignorant of no<g ref="char:EOLhyphen"/>thing: Not from Malice, for all Ma<g ref="char:EOLhyphen"/>lice is ſin, and we have proved that Reaſon it ſelf cannot ſin; therefore
+<pb n="88" facs="tcp:42481:55"/>God eſſentially excludes all untruth in ſpeaking; therefore his Veracity in ſpeaking is moſt infallible.</p>
+            </div>
+            <div n="12" type="attribute">
+               <head>The twelfth Attribute. <hi>Gods Juſtice.</hi>
+               </head>
+               <p>His Juſtice may be proved by the ſame argument: for all Injuſtice done to others, either proceeds from Ignorance or Malice; neither of which, as is proved, can be in God. But par<g ref="char:EOLhyphen"/>ticularly becauſe all Injuſtice is direct<g ref="char:EOLhyphen"/>ly againſt reaſon, and reaſon can do no<g ref="char:EOLhyphen"/>thing againſt reaſon.</p>
+            </div>
+            <div n="13" type="attribute">
+               <head>
+                  <hi>The thirteenth Attribute.</hi> Of the ever bleſſed Trinity.</head>
+               <p>THis is a Myſtery above the reach of all created capacity, and ſo can neither be demonſtrated, nor expreſſed
+<pb n="89" facs="tcp:42481:55"/>fully by humane underſtanding. One<g ref="char:EOLhyphen"/>ly endeavours may be uſed to invent the eaſieſt wayes to frame a right notion of it, as Chriſtian Faith deli<g ref="char:EOLhyphen"/>vers it; which I conceive, in this ex<g ref="char:EOLhyphen"/>preſſion which we have made of God, to be Reaſon it ſelf in its full perfecti<g ref="char:EOLhyphen"/>on, may with ſome more then ordina<g ref="char:EOLhyphen"/>ry facility be explicated. God there<g ref="char:EOLhyphen"/>fore is Reaſon it ſelf in its full perfecti<g ref="char:EOLhyphen"/>on; therefore he is eſſentially a com<g ref="char:EOLhyphen"/>prehenſive actual Knowledge of him<g ref="char:EOLhyphen"/>ſelf, and contains all true and right rea<g ref="char:EOLhyphen"/>ſon eſſentially. Now this compre<g ref="char:EOLhyphen"/>henſive knowledge, which reaſon it ſelf is of it ſelf, is not a mere contempla<g ref="char:EOLhyphen"/>tive, barren, weak, fruitleſs, and in<g ref="char:EOLhyphen"/>efficacious Knowledge; but practical, working, ſtrong, lively, vigorous, fe<g ref="char:EOLhyphen"/>cunde, and acting within it ſelf: for if the weak acts of created underſtanding have power to expreſs themſelves both to others, by ſigns and words, and to the underſtanding which hath them,
+<pb n="90" facs="tcp:42481:56"/>by occaſioning the production of reflex acts upon them; it cannot be concei<g ref="char:EOLhyphen"/>ved, that the moſt perfect, nay perfecti<g ref="char:EOLhyphen"/>on it ſelf, in underſtanding, ſhould be devoid of this perfection: and ſo by the infinite ſtrength, vigor, and power of it, expreſs it ſelf to it ſelf; and is no leſs its own expreſſion, then its own knowledge; and becauſe this expreſſi<g ref="char:EOLhyphen"/>on, being moſt prefect, is moſt perfect<g ref="char:EOLhyphen"/>ly adequate and commenſurate to it ſelf; that which is expreſſed is that very thing, which that which expreſſes; for were it not that very thing, there would be ſome difference, and ſo ſome diſſimilitude betwixt that which ex<g ref="char:EOLhyphen"/>preſſes, and that which is expreſſed; and then it were not (as I have ſhewed it muſt be) a moſt perfect and adequate expreſſion of it ſelf.</p>
+               <p>This infinite perfection therefore thus adequately expreſſing it ſelf with<g ref="char:EOLhyphen"/>in it ſelf, muſt alſo be its own appro<g ref="char:EOLhyphen"/>bation, love, ſatisfaction, joy, repoſe,
+<pb n="91" facs="tcp:42481:56"/>and infinite content, which the ex<g ref="char:EOLhyphen"/>preſſer and the expreſſed take mutually and indiviſibly one in the other; ſo that Reaſon it ſelf is no leſs a love, joy, and full repoſe, in this expreſſion, then it is an expreſſion of it ſelf: for it is not poſſible to conceive, that Reaſon it ſelf ſhould not approve, love, joy, and reſt, in that expreſſion which is the moſt abſolute, compleat, prefect, beau<g ref="char:EOLhyphen"/>tiful, lovely, and raviſhing expreſſion which can be thought on: ſeeing there<g ref="char:EOLhyphen"/>fore Reaſon it ſelf, muſt alwayes pro<g ref="char:EOLhyphen"/>ceed according to reaſon, it muſt ne<g ref="char:EOLhyphen"/>ceſſarily love, joy, and ſatisfie it ſelf in this expreſſion. And becauſe this joy, and ſatisfaction, &amp;c. muſt be perfectly adequate to that wherein it joyes; for were it leſs then that wherein it joyes and quieſces, it were not moſt perfect<g ref="char:EOLhyphen"/>ly conform to reaſon; and yet reaſon cannot but be moſt perfectly conform to reaſon; it muſt be of equal perfecti<g ref="char:EOLhyphen"/>on with that which expreſſes, and that
+<pb n="92" facs="tcp:42481:57"/>which is expreſſed; neither can it be different, or diſlike in any regard to the expreſſing and expreſſed reaſon; for as imperfect accidental love is an accidental union of two different lo<g ref="char:EOLhyphen"/>vers, ſo the moſt perfect ſubſtantial love, or quinteſſence of love, (ſuch as that of God is) is a ſubſtantial unity of the lover and that which is belo<g ref="char:EOLhyphen"/>ved; ſo that both, as one principle, breathe out a love which is one with them both. So that there is in this moſt hidden and Divine Myſtery; <hi>Co<g ref="char:EOLhyphen"/>gnitio exprimens, Knowledge expreſsing;</hi> and <hi>Cognitio expreſſ a, Knowledge expreſ<g ref="char:EOLhyphen"/>ſed;</hi> there is <hi>Intellectio intelligens, an intellectual act underſtanding;</hi> and <hi>In<g ref="char:EOLhyphen"/>tellectio intellecta, an intellectuall act which is underſtood;</hi> there is <hi>Sapientia concipiens, Wiſdom conceiving,</hi> and <hi>Sa<g ref="char:EOLhyphen"/>pientia concepta, Wiſdome conceived;</hi> there is <hi>Ratio ratiocinans, Reaſon rea<g ref="char:EOLhyphen"/>ſoning;</hi> and <hi>Ratio ratiocinata, Reaſon reaſoned:</hi> and yet all that is ſignified
+<pb n="93" facs="tcp:42481:57"/>by all theſe terms is one and the ſame thing; for it neither expreſſes, nor un<g ref="char:EOLhyphen"/>derſtands, nor conceives, nor reaſons any thing in theſe Divine acts, but moſt perfectly, and adequately what it ſelf is; ſo that both what is expreſ<g ref="char:EOLhyphen"/>ſed, underſtood, conceived, reaſoned, and the formal expreſſion, underſtand<g ref="char:EOLhyphen"/>ing, conception, ratiocination where<g ref="char:EOLhyphen"/>by we conceive that to be expre<g ref="char:EOLhyphen"/>ed, <hi>&amp;c.</hi> is one and the ſame thing; for the action being ſpecificated by the term, when the term is one thing (as it is here) with that whence it pro<g ref="char:EOLhyphen"/>ceeds, the action muſt be the ſame when them both; ſo that it is its own expreſſion, intellection, conception, ratiocination. In like manner, there is in this myſtery <hi>Dilectio diligens,</hi> and <hi>Dilectio dilecta, Love loving,</hi> and <hi>Love loved;</hi> and the ſame is of <hi>Satisfaction, Joy,</hi> and <hi>full Repoſe,</hi> active and paſſive, (as the School ſpeaks) but I finde nei<g ref="char:EOLhyphen"/>ther words nor time to expreſs them;
+<pb n="94" facs="tcp:42481:58"/>and yet this loving beloved love, <hi>&amp;c.</hi> of this expreſſing and expreſſed ex<g ref="char:EOLhyphen"/>preſſion, is (for the ſame reaſon) the very one ſelf-ſame thing; for it loves nothing (in theſe acts) but what it is it ſelf, as it expreſſes nothing, but what it is it ſelf. Whence appears a moſt per<g ref="char:EOLhyphen"/>fect and ſimple Unity in the Eſſence and Nature of God, in all thoſe pro<g ref="char:EOLhyphen"/>ductions, and proceſſions; which is that main fundamental Point, which Chriſtians believe, and profeſs againſt Heathens and Infidels, in this high Myſtery of the ever bleſſed Trinity. This Unity therefore eſtabliſhed, I proceed to deduce briefly from the ſame Principles, the moſt ſacred Tri<g ref="char:EOLhyphen"/>nity of the Divine Perſons, which all Orthodox Chriſtians maintain againſt Jew, Turks, and Heretiques; which I deduce thus: There is the ſame thing expreſſing and expreſſed; therefore there is the ſame thing producing, and produced. I prove the conſequence,
+<pb n="95" facs="tcp:42481:58"/>for every expreſſion of any thing, is a production of ſomething, as appears in all expreſſions which we know; if therefore this expreſſion be a producti<g ref="char:EOLhyphen"/>on, it muſt produce ſomething; but (as I proved) it expreſſes nothing, ſave that very thing which expreſſes, for it is an expreſſion of it ſelf; therefore it produces nothing, ſave that very thing which, that is, which produces. It may be replied, that to underſtand any thing, is as much to produce the intellection of it, as to expreſs any thing is to produce the expreſſion of it; and therefore God by underſtanding himſelf eſſentially, produces himſelf eſſentially. I anſwer, by denying the parity; for even a created intellection may and does underſtand it ſelf, with<g ref="char:EOLhyphen"/>out producing it ſelf; for an intellecti<g ref="char:EOLhyphen"/>on, ſo far as it is onely Contemplative and Theorical, is onely the ſight, and not the production of its object; and rather ſuppoſes its object, and is the
+<pb n="96" facs="tcp:42481:59"/>ſight of it, then either produces its ob<g ref="char:EOLhyphen"/>ject, or the ſight of it; but whatſoever expreſſes any thing, works upon that which it expreſſes; and either produces it, or the expreſſion of it, if it be dif<g ref="char:EOLhyphen"/>ferent from its expreſſion. Now I proceed. If therefore this expreſſion be a production, and ſo there muſt be that very thing produced which pro<g ref="char:EOLhyphen"/>duces, there muſt be a true diſtinction betwixt the producer and the produced; ſo that the producer is <hi>unus,</hi> and the produced <hi>alius,</hi> and conſequently muſt make a <hi>number,</hi> and be <hi>two:</hi> and becauſe <hi>actiones ſunt ſuppoſitorum,</hi> and <hi>ſuppoſitum in rationali natura</hi> (as that of God is in the firſt place) is termed rightly <hi>Perſona,</hi> a Perſon; therefore theſe muſt be <hi>two</hi> Divine Perſons: So that there is in this expreſſion and pro<g ref="char:EOLhyphen"/>duction, <hi>Principians,</hi> and <hi>Principiatus; One who is the Principating, and another who is derived from him who principlates.</hi> There is <hi>Originans, &amp; Originatus;
+<pb n="97" facs="tcp:42481:59"/>Gignens</hi> and <hi>Genitus, Pater &amp; Filius, &amp;c.</hi> Now it is impoſſible to conceive, that one and the ſame Perſon ſhould be both Father and Son, generating and generated, principiating and principia<g ref="char:EOLhyphen"/>ted, producing and produced, expreſ<g ref="char:EOLhyphen"/>ſing and expreſſed: for ſeeing theſe notions found real references, reſpects, and relations, betwixt the producer and the produced, &amp;c. it is not poſ<g ref="char:EOLhyphen"/>ſible to conceive them, without a real perſonal diſtinction, and duality in number; for one ſole Perſon can ne<g ref="char:EOLhyphen"/>ver found a <hi>real relation</hi> to himſelf, but onely <hi>relationem rationis;</hi> and the ſame reaſon proves the ſame diſtincti<g ref="char:EOLhyphen"/>on betwixt that Love, Joy, and Repoſe, &amp;c. which indiviſibly proceeds from this producing and produced duality: ſo that there muſt be a triality, or num<g ref="char:EOLhyphen"/>ber of three, in one reality; that is, one real thing thrice ſuppoſitated, and per<g ref="char:EOLhyphen"/>ſonated; or one real thing ſubſiſting thrice; and by thrice ſubſiſting hath a
+<pb n="98" facs="tcp:42481:60"/>true numerality, or diſtinction of three. The Myſtery therefore ſeems to me (I crave pardon, if I either think or ſpeak amiſs, and refer my judgement to thoſe, who are impowered to allow or con<g ref="char:EOLhyphen"/>demn it) to be <hi>One thing thrice over,</hi> and that neceſſarily and eſſentially, by force of its infinite vigor, activity, fe<g ref="char:EOLhyphen"/>cundity, and perfection; whereas all other things finite and limited ſubſiſt but once, as not having ſtrength and perfection enough to give themſelves a double, or a triple ſubſiſtence: which power of duplifying and triplifying it ſelf ſuppoſed, all thoſe ſeeming con<g ref="char:EOLhyphen"/>trarieties and contradictions, which natural humane Reaſon raiſes up a<g ref="char:EOLhyphen"/>gainſt this Myſtery, will clearly ap<g ref="char:EOLhyphen"/>pear to be meer illuſions and miſcon<g ref="char:EOLhyphen"/>ceipts of our weak capacity; which imagines that to be a contradiction in one thing ſubſiſting thrice, becauſe we finde it to be one in created things, which ſubſiſt but once: for this triality
+<pb n="99" facs="tcp:42481:60"/>of ſubſiſtence conſiſting in a real di<g ref="char:EOLhyphen"/>ſtinction, numeroſity, and multiplica<g ref="char:EOLhyphen"/>tion of the ſame thing, makes that to be equivalent to different things, whereof each have no more then one ſole ſub<g ref="char:EOLhyphen"/>ſiſtence, or ſubſiſt but once. Thus in this Myſtery there is as truly a Father and a Son, two diſtinct. Perſons, the one <hi>ingenerate,</hi> and <hi>generating</hi> the other, as father and ſon are two amongſt men: Thus there is as real a proceſſion of the holy Ghoſt from the Father and the Son, as Heat proceeds from Light and the Sun. Thus the Nature of God is perfectly one, and the Perſons perfectly three; becauſe this one Na<g ref="char:EOLhyphen"/>ture ſubſiſts thrice: Thus the Divine Nature is communicable, becauſe it is one in three; and the Perſonalities in<g ref="char:EOLhyphen"/>communicable, becauſe they are three in one. Seeing therefore number is an abſolute perfection in created and fi<g ref="char:EOLhyphen"/>nite beings; for two things of equal perfection are better then each of them
+<pb n="100" facs="tcp:42481:61"/>taken ſolely by it ſelf; and the ſame perfection twice repeated, is better then onely once; why ſhould this perfection be wanting to God? And ſeeing fecundity, to produce ſome<g ref="char:EOLhyphen"/>thing of like nature to it felf, is an ab<g ref="char:EOLhyphen"/>ſolute perfection in created beings; why ſhould not God have it? And ſeeing Love, Charity, Joy, and Con<g ref="char:EOLhyphen"/>tent, is an abſolute perfection amongſt men and Angels; why ſhould not God enjoy that perfection properly, and perfectly, to whom no abſolute perfection can be wanting? For ſeeing there are three ranks of perfections amongſt men; The firſt in the rank of Eſſence, and intrinſecal and radical being; which may be termed <hi>Eſſential.</hi> The ſecond, <hi>in ordine naturae,</hi> or active power of ſuch an Eſſence, which are termed Natural. And the third, <hi>in ordine humano;</hi> or of Sociability, and mutual Communication one with an<g ref="char:EOLhyphen"/>other, which we call Moral: I ſee no
+<pb n="101" facs="tcp:42481:61"/>reaſon, why all theſe ranks of per<g ref="char:EOLhyphen"/>fection ſhould not be found both perfectly and formally in God. His Unity, Omnipotency, <hi>&amp;c.</hi> may be called his Intrinſecal, and Radical, or Primary Eſſential perfections, as he is conſidered <hi>in ordine Eſſentiali;</hi> his Fe<g ref="char:EOLhyphen"/>cundity and expreſſive Production, his Natural Perfection, as he is conſi<g ref="char:EOLhyphen"/>dered <hi>in ordine activo;</hi> and his Love, Friendſhip, Charity, Joy, &amp;c. in the proceſſion of the holy Ghoſt, his Mo<g ref="char:EOLhyphen"/>ral Perfections, in communication and ſociety of the Divine Perſons. And yet all this is nothing <hi>but Reaſon it ſelf, and in the full latitude of its perfection;</hi> his eſſential and intrinſecal notion, is the fulneſs of Reaſon; his natural activeneſs, is nothing but an adequate expreſſion of that very Reaſon which is his Notion; his Love, Joy, Repoſe, &amp;c. is no other thing, then the plenary Satisfaction in that expreſſing and ex<g ref="char:EOLhyphen"/>preſſed Reaſon; which can be no other
+<pb n="102" facs="tcp:42481:62"/>then a perfect conformity to Reaſon, and ſo nothing but Reaſon. Thus by ſome dark and flaſhing glimpſes we have diſcovered this ever bleſſed Tri<g ref="char:EOLhyphen"/>nity, in an ever bleſſed Unity; one in three, and three in one; three Perſons in one Nature; a number in an Unity, and one and the ſame thing ſubſiſting thrice over. O moſt Sacred and Di<g ref="char:EOLhyphen"/>vine Myſtery, thou art as ſweet and de<g ref="char:EOLhyphen"/>licious, as thou art high and incon<g ref="char:EOLhyphen"/>ceiveable; the more I contemplate thee, the more I know thee; the more I know, the more I admire thee; the more I admire, the more I love thee; the more I love, the more I praiſe and adore; and the more I adore thee, the more I aſpire and languiſh to enjoy thee! And if any of you, dear Chri<g ref="char:EOLhyphen"/>ſtians, have learnt (by peruſing this ſmall Tract) to know there is <hi>A GOD, OR NOTHING,</hi> give me leave to exhort you, conformably to your knowledge, to admire, love, praiſe,
+<pb n="103" facs="tcp:42481:62"/>adore, and covet to enjoy, as your laſt End and Bliſs, <hi>A GOD, OR NO<g ref="char:EOLhyphen"/>THING:</hi> for (as devout <hi>A Kempis</hi> ſayes moſt truly) <hi>Quicquid Deus non eſt, nihileſt, &amp; pronihilo reputari de<g ref="char:EOLhyphen"/>bet;</hi> in a Chriſtian eſtimation, what<g ref="char:EOLhyphen"/>ſoever is not God, is nothing, and is to be reputed as nothing.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:42481:63"/>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="index">
+            <pb facs="tcp:42481:63"/>
+            <head>The Index of the principal Matters contained in this Tract.</head>
+            <list>
+               <head>A.</head>
+               <item>Some <hi>Actual Being</hi> is eſſentially neceſ<g ref="char:EOLhyphen"/>ſary <hi>page 13, 16</hi>
+               </item>
+               <item>
+                  <hi>Actual Being</hi> eſſentially neceſſary is of it ſelf <hi>page 65</hi>
+               </item>
+               <item>
+                  <hi>Actual Being</hi> eſſentially neceſſary is al<g ref="char:EOLhyphen"/>wayes neceſſary <hi>page 45</hi>
+               </item>
+               <item>
+                  <hi>Angel,</hi> what the notion thereof imports eſſentially? <hi>page 60</hi>
+               </item>
+               <item>
+                  <hi>Attributes</hi> of God deduced from his neceſ<g ref="char:EOLhyphen"/>ſary exiſtence <hi>page 71</hi>
+               </item>
+            </list>
+            <list>
+               <head>B.</head>
+               <item>
+                  <hi>TO Be</hi> actually of it ſelf, it to be eſ<g ref="char:EOLhyphen"/>ſentially <hi>page 10</hi>
+               </item>
+               <item>For a Thing to <hi>Be of it ſelf,</hi> what is eſ<g ref="char:EOLhyphen"/>ſentially required <hi>page 67</hi>
+               </item>
+            </list>
+            <list>
+               <pb facs="tcp:42481:64"/>
+               <head>C.</head>
+               <item>THere can be no <hi>Cauſe</hi> of All Things which are, and ever have been <hi>page 15, 16, &amp;c.</hi>
+               </item>
+               <item>No <hi>Cauſe</hi> can deſtroy <hi>allthings page 8</hi>
+               </item>
+               <item>Infinity <hi>in cauſing</hi> is impoſsible, as well in <hi>ſimultaneous</hi> as ſucceſsive cauſes <hi>page 30, 31</hi>
+               </item>
+               <item>No <hi>Cauſe</hi> can totally produce a thing per<g ref="char:EOLhyphen"/>fecter then it ſelf <hi>page 66</hi>
+               </item>
+               <item>The being of <hi>All Cauſes</hi> is ever to be pre<g ref="char:EOLhyphen"/>ſuppoſed to the production of their ef<g ref="char:EOLhyphen"/>fects <hi>page 60</hi>
+               </item>
+               <item>There muſt be alwayes a determinate num<g ref="char:EOLhyphen"/>ber of <hi>Cauſes,</hi> which have produced ef<g ref="char:EOLhyphen"/>fects <hi>page 20, 21</hi>
+               </item>
+               <item>No ſettlement in <hi>cauſing</hi> without a <hi>cauſe</hi> not <hi>cauſed page 11</hi>
+               </item>
+               <item>
+                  <hi>Cauſes cauſed in infinitum;</hi> is a pure Chymaera, or <hi>impoſſibility page 11</hi>
+               </item>
+               <item>
+                  <hi>All Cauſes</hi> of Things paſt, or preſent, muſt remain either in themſelves, or <hi>in virture ſua page 20, 21</hi>
+               </item>
+               <pb facs="tcp:42481:64"/>
+               <item> 
+                  <hi>All Cauſes and Effects,</hi> which ſhall or may be hereafter, are <hi>now</hi> nothing at all, ſave the power of their <hi>Cauſe,</hi> which is now <hi>page 22, 23</hi>
+               </item>
+               <item>Nothing which proceeds inevitably from a <hi>Cauſe,</hi> can exiſt alone <hi>page 9</hi>
+               </item>
+               <item>Nothing that is <hi>Contingent,</hi> can be alone <hi>page 9</hi>
+               </item>
+               <item>Nothing, that is <hi>Contingent,</hi> can be of it ſelf <hi>page 12, 13</hi>
+               </item>
+            </list>
+            <list>
+               <head>F.</head>
+               <item>
+                  <hi>ETernity</hi> two-fold <hi>page 80</hi>
+               </item>
+               <item>Gods <hi>Eternity</hi> what it is <hi>page 81</hi>
+               </item>
+            </list>
+            <list>
+               <head>G.</head>
+               <item>
+                  <hi>GOd</hi> is Actual Intellection, or Rea<g ref="char:EOLhyphen"/>ſon it ſelf <hi>page 70</hi>
+               </item>
+               <item>The Notion of <hi>God</hi> what it imports uni<g ref="char:EOLhyphen"/>verſally, or in the underſtandings of all men. <hi>page 70</hi>
+               </item>
+               <item>
+                  <hi>God</hi> hath no mixtion, or compoſition of parts, and why? <hi>page 74</hi>
+               </item>
+               <pb facs="tcp:42481:65"/>
+               <item> 
+                  <hi>God</hi> how he is ſaid to concur to all parti<g ref="char:EOLhyphen"/>cular effects. <hi>page 78, 79</hi>
+               </item>
+               <item>
+                  <hi>Gods Omniſciency</hi> demonſtrated <hi>page 82</hi>
+               </item>
+               <item>
+                  <hi>Gods Indiviſibility</hi> demonſtrated <hi>page 72</hi>
+               </item>
+               <item>To be <hi>Good,</hi> what it imports <hi>page 85</hi>
+               </item>
+               <item>Divine <hi>Goodneſs</hi> demonſtrated to be the greateſt of all <hi>page 86</hi>
+               </item>
+            </list>
+            <list>
+               <head>I.</head>
+               <item>WHatſoever is <hi>Indeterminate,</hi> can be no Actual Being <hi>page 32</hi>
+               </item>
+            </list>
+            <list>
+               <head>K.</head>
+               <item>
+                  <hi>KNowledge</hi> purely contemplative, preſuppoſeth its Object <hi>page 95</hi>
+               </item>
+            </list>
+            <list>
+               <head>M.</head>
+               <item>
+                  <hi>MAtter</hi> neither Eternal, nor Infinite, nor of it ſelf <hi>page 55, 85</hi>
+               </item>
+            </list>
+            <list>
+               <head>N.</head>
+               <item>
+                  <hi>NOthing</hi> can do nothing <hi>page 2</hi>
+               </item>
+               <item>
+                  <hi>Nothing</hi> can be abſolutely neceſ<g ref="char:EOLhyphen"/>ſary, which can have a <hi>Cauſe page 13</hi>
+               </item>
+               <pb facs="tcp:42481:65"/>
+               <item> 
+                  <hi>Nothing</hi> can be without ſome reaſon, why it is <hi>page 44</hi>
+               </item>
+               <item>
+                  <hi>Number</hi> why found in God <hi>page 99, 100</hi>
+               </item>
+            </list>
+            <list>
+               <head>O.</head>
+               <item>
+                  <hi>GOds Omnipotency</hi> demonſtrated <hi>page 83, 84</hi>
+               </item>
+            </list>
+            <list>
+               <head>P.</head>
+               <item>
+                  <hi>PErfections</hi> three-fold, Eſſential, Na<g ref="char:EOLhyphen"/>tural, Moral; all in proportion found in God, and how? <hi>page 100, 101</hi>
+               </item>
+               <item>No <hi>Actual Parts,</hi> whilſt they remain in <hi>Continuo page 33</hi>
+               </item>
+            </list>
+            <list>
+               <head>R.</head>
+               <item>
+                  <hi>REaſon it ſelf</hi> cannot but be actually <hi>page 65, 72</hi>
+               </item>
+               <item>
+                  <hi>Reaſon</hi> in <hi>its full Perfection</hi> cannot but be of it ſelf <hi>page 67</hi>
+               </item>
+               <item>
+                  <hi>Actual Reaſon</hi> in its full perfection, what <hi>page 68, 69</hi>
+               </item>
+               <item>
+                  <hi>Reaſon it ſelf</hi> produceth all things imme<g ref="char:EOLhyphen"/>diately; and why? <hi>page 75, 76</hi>
+               </item>
+               <item>
+                  <hi>Reaſon it ſelf</hi> how ſaid to be every where, or in all things <hi>page 75</hi>
+               </item>
+               <pb facs="tcp:42481:66"/>
+               <item> No <hi>real Effect</hi> in the world <hi>contrary to Reaſon,</hi> all Circumſtances conſidered <hi>page 78</hi>
+               </item>
+               <item>How <hi>Reaſon it ſelf</hi> concurs to every ef<g ref="char:EOLhyphen"/>fect <hi>page 78</hi>
+               </item>
+               <item>
+                  <hi>Reaſon it ſelf</hi> can do nothing contrary to Reaſon <hi>page 76</hi>
+               </item>
+               <item>
+                  <hi>Reaſon it ſelf</hi> is its own Rule, Knowledge, Light, &amp;c. <hi>page 68, 69</hi>
+               </item>
+            </list>
+            <list>
+               <head>S.</head>
+               <item>THe <hi>Spirituality</hi> of God demonſtrated <hi>page 73</hi>
+               </item>
+               <item>His <hi>Sanctity,</hi> or Purity, alſo <hi>page 86</hi>
+               </item>
+               <item>
+                  <hi>Soul of man,</hi> what the notion thereof im<g ref="char:EOLhyphen"/>ports eſſentially <hi>page 60</hi>
+               </item>
+            </list>
+            <list>
+               <head>T.</head>
+               <item>
+                  <hi>NO</hi> actual <hi>Time,</hi> can have been <hi>ab<g ref="char:EOLhyphen"/>aeterno,</hi> or without beginning <hi>page 35</hi>
+               </item>
+               <item>
+                  <hi>Time</hi> for the future may be without end, becauſe it ſhall never be all actual <hi>page 3</hi>
+               </item>
+               <item>
+                  <hi>Time</hi> imaginary is nothing real, ſave the power of the firſt <hi>Cauſe. page 28</hi>
+               </item>
+               <pb facs="tcp:42481:66"/>
+               <item> All <hi>Time</hi> paſt, which was once actual, muſt be finite. <hi>page 26</hi>
+               </item>
+               <item>No <hi>Time</hi> can have an Actual End, which had not an Actual Beginning <hi>page 27</hi>
+               </item>
+               <item>
+                  <hi>Time</hi> is nothing, but the Mutability of actual Beings <hi>page 28</hi>
+               </item>
+               <item>All things which are actually in this mo<g ref="char:EOLhyphen"/>ment of <hi>Time,</hi> depend in their Beings of all the <hi>Cauſes,</hi> which mediately or immediately produced them <hi>page 29</hi>
+               </item>
+               <item>No Being can be limited Eſſentially to ſuch determinate inſtances of <hi>Time,</hi> if no ſuch inſtances be actually <hi>page 34, 35</hi>
+               </item>
+               <item>No Being can depend Eſſentially of <hi>Time,</hi> ſeeing <hi>Time</hi> is conſequent to the thing during <hi>page 37</hi>
+               </item>
+               <item>Whatſoever is ſuppoſed to be Eſſentially for ſuch a ſpace of <hi>Time,</hi> will be in <hi>Time</hi> and not in <hi>Time page 41</hi>
+               </item>
+               <item>How the <hi>Trinity</hi> of Perſons in the Uni<g ref="char:EOLhyphen"/>ty of the Divine Nature, or Eſſence, may be beſt repreſented to our capacity <hi>page 89, &amp;c. 94, &amp;c.</hi>
+               </item>
+            </list>
+            <list>
+               <pb facs="tcp:42481:67"/>
+               <head>V.</head>
+               <item>THe <hi>Unity</hi> of God demonſtrated <hi>page 71</hi>
+               </item>
+               <item>Gods <hi>Ubiquity</hi> demonſtrated <hi>page 74</hi>
+               </item>
+               <item>Gods <hi>Ubiquity,</hi> what it imports <hi>page 79</hi>
+               </item>
+               <item>Gods <hi>Veracity</hi> demonſtrated <hi>page 87</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
